@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Línea de tiempo</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <div class="container">
+  <section class="top-section">
+    <div class="top-section-left">
+      <h2>M17 Línea temporal</h2>
+    </div>
+    <div class="top-section-middle">
+      <div id="file" class="custom-file" style="margin: 3em 0 0 0;">
+        <input type="file" class="custom-file__input" id="fileUpload" name="upload" required>
+        <label class="custom-file__label" for="fileUpload">Importar fichero</label>
+      </div>
+      <select id="tag-filter" class="" style="display: none">
+        <option value="">Seleccionar todo</option>
+       
+      </select>
+    </div>
+    <div class="top-section-right">
+      <div id="registers"> 
+      </div>
+  </section>
+  <section id="timeline" class="timeline-section">
+    <ul id="timeline-list">
+      <div id="filtered-items">
+        </div>
+    </ul>
+  </section>
+</div>
+
+</body>
+<script src="scripts.js"></script>
+
+</html>
