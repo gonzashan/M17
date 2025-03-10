@@ -11,7 +11,7 @@ inicio2();
 
 function inicio2(){
 
-fetch('https://raw.githubusercontent.com/gonzashan/M17/1e368272fcf15288ac26bc09abacebe14a85a2aa/PROJECT_TIMELINE/timeline_data.json')
+fetch('https://raw.githubusercontent.com/gonzashan/M17/e4eebf8f3a1f1af4507e8593cb08d2f54448c333/PROJECT_TIMELINE/timeline_data.json')
 
   .then(function(response) {
     // Verifica si la solicitud fue exitosa (código de estado 200)
