@@ -1,16 +1,94 @@
 [
   {
+    "date": "9 Dic 2010",
+    "title": "Apertura de libro",
+    "president": "No sé conoce",
+    "content": [
+      {
+        "id": 0,
+        "text": "Apertura de libro de actas con PEDRO PERÉZ GÓMEZ"
+      }
+    ],
+    "tags": "actas",
+    "link": "https://raw.githubusercontent.com/gonzashan/actas/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2010/2010_9_diciembre-apertura-libro-actas.pdf",
+    "id": "work1"
+  },
+  {
     "date": "15 Dic 2010",
     "title": "Junta General Extraordinaria",
     "president": "No sé conoce",
-    "content": "- Nombrado Secretario Administrador a <strong>FINCAS PEREZ S CP</strong>. \n- Abrir una cuenta indistinta en la entidad de Caixa de Catalunya para derramas extraordinarias y firma con el Presidente de turno.",
-    "id": "work1"
+    "content": [
+      {
+        "id": 0,
+        "text": "Nombrado Secretario Administrador a <span style='font-weight: bold;color: #0c343d;'>FINCAS PEREZ S CP</span>."
+      },
+      {
+        "id": 2,
+        "text": "Abrir una cuenta indistinta en la entidad de <span style='color: #a61c00;'>Caixa de Catalunya</span> para derramas extraordinarias y firma con el Presidente de turno."
+      }
+    ],
+    "tags": "actas, cuenta bancaria",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/0f6fef7cba75ba9452dd41d707a8ec231ed2732c/ACTAS/2010/2010_15_diciembre-acta-extraordinaria.pdf",
+    "id": "work2"
   },
   {
     "date": "6 Abr 2011",
     "title": "Junta General Extraordinaria",
     "president": "No sé conoce",
-    "content": "Se solicitan pptos para la ITE.",
-    "id": "work2"
+    "content": [
+      {
+        "id": 0,
+        "text": "Se solicitan pptos para la ITE."
+      }
+    ],
+    "tags": "actas",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2011/2011_6_abril-acta-extraordinaria.pdf",
+    "id": "work3"
+  },
+  {
+    "date": "1 Jun 2011",
+    "title": "Junta General Extraordinaria",
+    "president": "No sé conoce",
+    "content": [
+      {
+        "id": 0,
+        "text": "Antonio Villarejo González, Arquitecto, para realizar:\n- Tema la fachada por importe de 7.611,92 € más IVA. \n- ITE por importe de 950€."
+      }
+    ],
+    "tags": "actas",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2011/2011_1_junio-acta-extraordinaria.pdf",
+    "id": "work4"
+  },
+  {
+    "date": "2 Nov 2021",
+    "title": "Apertura de diligencias",
+    "president": "Oscar Ávila Rodriguéz, 4o9a",
+    "content": [
+      {
+        "id": 0,
+        "text": "Aprobada en la Junta General Ordinaria de 21/04/2021"
+      },
+      {
+        "id": 8,
+        "text": "Procurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2021_11_02_honorarios-procuradora.pdf",
+    "id": "work5"
+  },
+  {
+    "date": "4 Mar 2022",
+    "title": "Juicio Verbal Primera Instancia",
+    "president": "Guillém Martínez Bosch, 5o1a",
+    "content": [
+      {
+        "id": 8,
+        "text": "Resumen:\nLa demanda, presentada por la <span style='font-weight: bold;'>Comunidad de Propietarios</span>, busca desalojar a personas desconocidas que están ocupando una vivienda sin permiso. El caso se tramitará como un \"<span style='font-weight: bold;'>juicio verbal de desahucio por precario</span>\", que es un tipo de procedimiento legal para recuperar la posesión de una propiedad.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_03_04_juicio_verbal_primera.pdf",
+    "id": "work6"
   }
 ]
