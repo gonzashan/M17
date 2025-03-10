@@ -7,28 +7,34 @@ const timeFadeout = 1000;
 
 var jsonData = {};
 
-const inputArchivo = document.getElementById('fileUpload');
-      inputArchivo.addEventListener('change', () => {
-      const archivo = inputArchivo.files[0];
-      const lector = new FileReader();
+inicio2();
 
-      lector.onload = (evento) => {
-        try {
-          jsonData = JSON.parse(evento.target.result);
+function inicio2(){
 
-          fadeOutAndHide('file');          
-          //timeLineLoad(jsonData); // Muestra los datos en la consola        
-          // Ejemplo: Mostrar los datos en el div 'contenido'
-        } catch (error) {
-          alert('Error al analizar JSON:', error);
-          console.error('Error al analizar JSON:', error);
-        }
-      };
+fetch('https://raw.githubusercontent.com/gonzashan/M17/1e368272fcf15288ac26bc09abacebe14a85a2aa/PROJECT_TIMELINE/timeline_data.json')
 
-      lector.readAsText(archivo);
-      
+  .then(function(response) {
+    // Verifica si la solicitud fue exitosa (código de estado 200)
+    if (!response.ok) {
+      throw new Error('No se pudo cargar el archivo JSON.');
+    }
+    // Convierte la respuesta a formato JSON
+    return response.json();
+  })
+  .then(function(data) {
+    // Los datos del archivo JSON están disponibles en la variable 'data'
+    jsonData= data;
+    fadeOutAndHide('file');    
+    // Puedes trabajar con los datos aquí, por ejemplo, mostrarlos en una página web
+    // o procesarlos de alguna manera.
+  })
+  .catch(function(error) {
+    // Maneja cualquier error que ocurra durante la solicitud
+    alert('Ocurrió un error:', error);
+    console.error('Ocurrió un error:', error);
+  });
+}
 
-    });
 
 function fadeOutAndHide(elementId) {
   const element = document.getElementById(elementId);
@@ -57,10 +63,8 @@ function fadeInAndShow(elementId) {
   setTimeout(() => {
     getTags();
        // Oculta el elemento después del tiempo especificado
-    }, timeFadeout);
-  
+    }, timeFadeout);  
 }
-
 
 
 function timeLineLoad(timelineData){
@@ -95,6 +99,7 @@ function timeLineLoad(timelineData){
   timelineContainer.appendChild(li);
   });
 }
+
 
 function filterItems(data, tag) {
   const jsonDataFlitered = [];
