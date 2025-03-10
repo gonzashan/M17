@@ -60,6 +60,426 @@
     "id": "work4"
   },
   {
+    "date": "1 Dic 2011",
+    "title": "Junta General Ordinaria",
+    "president": "Mercedes Fráile Pérez",
+    "content": [
+      {
+        "id": 0,
+        "text": "Presentación y aprobación presupuestos rehabilitación fachada. Forma de financiación, (asistirá el arquitecto Sr. Antonio Villarejo)."
+      }
+    ],
+    "tags": "actas",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2011/2011_1_diciembre-acta-ordinaria.pdf",
+    "id": "work5"
+  },
+  {
+    "date": "25 Abr 2012",
+    "title": "Junta General Extraordinaria",
+    "president": "Mercedes Fráile Pérez",
+    "content": [
+      {
+        "id": 5,
+        "text": "Notificación de la mancomunidad reclamando el importe de 6.214,78 € de gastos."
+      },
+      {
+        "id": 0,
+        "text": "Este punto se vota conjuntamente con el de arreglar la terraza comunitaria que actualmente provoca filtraciones, con carácter de urgencia y aprovechando los fondos que tiene la comunidad de las derramas extra recogidas de 50 €.\n- Derramas extraordinarias a partir del mes de junio del año en curso hasta nueva orden."
+      },
+      {
+        "id": 2,
+        "text": "El dinero de la obra se depositará en la cuenta que tiene la comunidad a su nombre."
+      },
+      {
+        "id": 6,
+        "text": "Las derramas deberán regularizarse a los locales y parking."
+      }
+    ],
+    "tags": "actas, cuenta bancaria, mancomunidad, parking",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2012/2012_25_abril-acta-extraordinaria.pdf",
+    "id": "work6"
+  },
+  {
+    "date": "20 Dic 2012",
+    "title": "Junta General Extraordinaria",
+    "president": "Mercedes Fráile Pérez",
+    "content": [
+      {
+        "id": 1,
+        "text": "Cerramiento perimetral del edificio y colocación de puerta: 13, votos a favor 15."
+      }
+    ],
+    "tags": "actas, cerramiento",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2012/2012_20_diciembre-acta-extraordinaria.pdf",
+    "id": "work7"
+  },
+  {
+    "date": "25 Feb 2013",
+    "title": "Junta General Extraordinaria",
+    "president": "Mercedes Fráile Pérez",
+    "content": [
+      {
+        "id": 0,
+        "text": "Presupuestos fachada:\n- VIRTUAL SL por un importe de 219.156€ y TRAC S L por un importe de 235.545€.\n- Se hace constar que se elija el presupuesto que se elija deberán incluir ambos adecentar el vestíbulo y los buzones con un incremento máximo 1000€.\n- TRAC S.L. adjudicataria con una entrada de 60.000 € y 32 mensualidades, entre otras de ejecución, finalización etc.\n- En este punto se hace constar que la junta de obras dimite, esperando que salgan voluntarios para este tema."
+      }
+    ],
+    "tags": "actas",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2013/2013_25_febrero-acta-extraordinaria.pdf",
+    "id": "work8"
+  },
+  {
+    "date": "29 Abr 2013",
+    "title": "Junta General Ordinaria",
+    "president": "Alberto Civit Calvo, 3o8a",
+    "content": [
+      {
+        "id": 6,
+        "text": "Deuda Propiedad del Parking 13.299,06 €."
+      },
+      {
+        "id": 7,
+        "text": "a) Que está pendiente de arreglar la vivienda de la comunidad.\nb) En cuanto a la garita del conserje se intentará arreglar después de la obra, al igual que el vestíbulo."
+      }
+    ],
+    "tags": "actas, portería, mancomunidad",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2013/2013_29_abril-acta-ordinaria.pdf",
+    "id": "work9"
+  },
+  {
+    "date": "13 Jun 2013",
+    "title": "Junta General Extraordinaria",
+    "president": "Alberto Civit Calvo, 3o8a",
+    "content": [
+      {
+        "id": 5,
+        "text": "Demanda interpuesta por la mancomunidad.\n- Queda aprobado por mayoría defender la demanda judicial."
+      },
+      {
+        "id": 0,
+        "text": "Se harán tres juegos de llaves comunitarias para que queden en poder del presidente, vicepresidente y administrador, pudiendo entregar el administrador otro juego a su lampista de confianza para que en caso necesario pueda acceder fácilmente."
+      }
+    ],
+    "tags": "actas, mancomunidad",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2013/2013_13_junio-acta-extraordinaria.pdf",
+    "id": "work10"
+  },
+  {
+    "date": "15 Jul 2013",
+    "title": "Junta General Extraordinaria",
+    "president": "Alberto Civit Calvo, 3o8a",
+    "content": [
+      {
+        "id": 0,
+        "text": "Incremento del presupuesto es de 25.008 € mas IVA por la barandillas fachada."
+      }
+    ],
+    "tags": "actas",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2013/2013_15_julio-acta-extraordinaria.pdf",
+    "id": "work11"
+  },
+  {
+    "date": "21 Ene 2014",
+    "title": "Junta General Extraordinaria",
+    "president": "Alberto Civit Calvo, 3o8a",
+    "content": [
+      {
+        "id": 5,
+        "text": "Rehabilitación del patio: \nUna primera de 243.000 € para hacer una reparación de quitar toda o así todas las filtraciones.\nLa segunda de una solución completa al patio la partida asciende a la cantidad de 1.953.000 €."
+      }
+    ],
+    "tags": "actas, mancomunidad",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2014/2014_21_enero-acta-extraordinaria.pdf",
+    "id": "work12"
+  },
+  {
+    "date": "8 Abr 2014",
+    "title": "Junta General Extraordinaria",
+    "president": "Alberto Civit Calvo, 3o8a",
+    "content": [
+      {
+        "id": 1,
+        "text": "Información sobre la sentencia judicial dictada sobre el cerramiento de la comunidad.\na) Aceptar la sentencia y pagar los gastos ocasionados, así como deshacer todo lo hecho y señalado en la sentencia.\nb) Impugnar la sentencia y que según el abogado existen posibilidades de que nos den la razón, ya que entiende que la sentencia tiene ciertos criterios de contradicción.\n<span style='font-weight: bold;'>No negociar</span>: 2°la, 2°3a, 5°6a y 6°4a.\n<span style='font-weight: bold;'>Si negociar</span>: el resto de propietarios.\n\nLa junta para negociar queda compuesta por los propietarios de los pisos 2o5a, 2o8a, 3o8a, 3o9a y 5o1a.\n\nIgualmente se pone a votación si se impugna o no, a parte de la negociación, y teniendo en cuenta que si no se llega a tiempo de negociar, se impugnará.\n\n<span style='font-weight: bold;'>No impugnar</span> 15 votos: Tda.1a, Tda.2a, Tda.3a, Tda.4a, 1o4a, 2o4a, 3o2a, 3o3a, 3o9a, 4o9a, 5o1a, 5o2a, 5o3a, 5o9a y 6o3a.\n<span style='font-weight: bold;'>Si impugnar</span> 20 votos: 1o5a, 1o6a, 1o7a, 1o8a, 2o1a; 2o3a, 2o5a, 2o7a, 2o8a, 3o1a, 3o6a, 3o8a, 4o1a, 4o5a, 5o6a, 5o7a, 5o8a, 6o2a, 6o4a y 6o5a.\n"
+      }
+    ],
+    "tags": "actas, cerramiento",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2014/2014_8_abril-acta-extraordinaria.pdf",
+    "id": "work13"
+  },
+  {
+    "date": "16 May 2014",
+    "title": "Junta General Ordinaria",
+    "president": "Sebastià Herreros Agui, 3o9a",
+    "content": [
+      {
+        "id": 4,
+        "text": "El cargo del Secretario Administrador se pone a votación ya que algunos de los vecinos consideran que no se ha informado  de forma correcta en cuanto al tema de las obras del cerramiento."
+      },
+      {
+        "id": 1,
+        "text": "También se cuestiona la función y hacer del arquitecto. En este punto la base está en no pedir permiso en su momento a la mancomunidad."
+      },
+      {
+        "id": 6,
+        "text": "Deuda Parking  <span style='color: #cc0000;'>22.769,71 €</span>."
+      },
+      {
+        "id": 7,
+        "text": "En cuanto a la vivienda de la comunidad, el arquitecto Antonio Villarejo está ya mirando y tramitando la documentación necesarios para conseguir la cédula de habitabilidad. Se comenta la posibilidad de vender dicha vivienda, quedando aplazado este tema para un futuro y teniendo en cuenta que se deberá aprobar por unanimidad de los propietarios."
+      },
+      {
+        "id": 0,
+        "text": "Se concretará un día mensual de reunión con los miembros de la junta, y hacer el seguimiento de los temas pendientes."
+      }
+    ],
+    "tags": "actas, importante, parking, portería",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2014/2014_16_mayo-acta-ordinaria.pdf",
+    "id": "work14"
+  },
+  {
+    "date": "30 Abr 2015",
+    "title": "Junta General Ordinaria",
+    "president": "Lope García-Verdugo Galeote, 4o1a",
+    "content": [
+      {
+        "id": 6,
+        "text": "Deuda Parking  <span style='color: #a61c00;'>31.409,61 €</span><span style='color: #cc0000;'>."
+      },
+      {
+        "id": 1,
+        "text": "an>\n[1]- En el sexto punto del orden del día, se comenta que la intención es conseguir la segregación del piso portería y que es propiedad de la comunidad.\n- Puesto a votación la segregación de dicha entidad, realizando un cambio en la escritura de división horizontal de toda la finca, para adicionar el piso 1°1a (portería), queda aprobado por <span style='font-weight: bold;'>unanimidad</span> de los asistentes, quedando dicho acuerdo en la presente acta y pudiendo los propietarios no asistentes a la reunión impugnar dicho acuerdo en los tribunales.\n"
+      }
+    ],
+    "tags": "actas, parking, portería, importante",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2015/2015_30_abril-acta-ordinaria.pdf",
+    "id": "work15"
+  },
+  {
+    "date": "17 Jun 2015",
+    "title": "Junta General Extraordinaria",
+    "president": "Lope García-Verdugo Galeote, 4o1a",
+    "content": [
+      {
+        "id": 5,
+        "text": "Reforma del patio de forma íntegra por un importe total de 2.100.000 €. de los cuales corresponde a la finca de Minería 17 en función del coeficiente con respecto a la Mancomunidad, la cantidad de 200.390€.\n- Se aprueba No Aprobar dicha obra, aunque puede quedar condicionada a que se haga a largo plazo."
+      },
+      {
+        "id": 0,
+        "text": "ITC SYSTEM, por un importe IVA incluido de 1.176,12€. (cámaras de vigilancia)."
+      }
+    ],
+    "tags": "actas, mancomunidad",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2015/2015_17_junio-acta-extraordinaria.pdf",
+    "id": "work16"
+  },
+  {
+    "date": "3 Nov 2015",
+    "title": "Junta General Extraordinaria",
+    "president": "Lope García-Verdugo Galeote, 4o1a",
+    "content": [
+      {
+        "id": 5,
+        "text": "Explicaciones y acuerdos a tomar con relación a las obras estructurales de la mancomunidad.\n-Las subvenciones necesitan tener tramitado el ITE de la finca...¿no se pasó en <span style='font-weight: bold;'>2013</span>?.\n- Que el importe que se calcula para recoger es de 111.998 € y que calculando las incidencias posibles de la escalera se recogerá el importe de 141.997 €.\n"
+      }
+    ],
+    "tags": "actas, mancomunidad",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2015/2015_3_noviembre-acta-extraordinaria.pdf",
+    "id": "work17"
+  },
+  {
+    "date": "2 Feb 2016",
+    "title": "Junta General Extraordinaria",
+    "president": "Lope García-Verdugo Galeote, 4o1a",
+    "content": [
+      {
+        "id": 7,
+        "text": "RTANTE ACTA.\n[7]- 1º Aprobación de los requisitos necesarios para convertir la portería en elemento privativo. Posible decisión sobre su destino y condiciones.\n-En cuanto al primer y único punto del orden del día, se informa por el Sr. Pérez Gómez que con<span style='color: #990000;'> objeto de poder cumplir con el mandato aprobado en su día por la unanimidad</span> de los propietarios (<span style='font-weight: bold;'>privatizar el elemento común portería con objeto de proceder a su </span><span style='font-weight: bold;color: #a61c00;'>venta</span>), necesita que se cumplan algunos requisitos que, a continuación, pasa a exponer:\n\nTeniendo encuenta <span style='font-weight: bold;'>que el objetivo es proceder a la venta </span>del inmueble, se recomiendan las siguientes acciones, destinadas a ahorrar costes ..."
+      }
+    ],
+    "tags": "actas, importante, portería",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2016/2016_2_febrero-acta-extraordinaria.pdf",
+    "id": "work18"
+  },
+  {
+    "date": "22 Sep 2016",
+    "title": "Junta General Ordinaria",
+    "president": "Ángel  Pulido Albero 4º2a",
+    "content": [
+      {
+        "id": 7,
+        "text": "David Pérez explica que para comprar se debe hacer sabiendo el plazo largo de dicho trámite y que sería con cargas hasta que solucionaran todas las afectaciones con los diferentes bancos.\n\n- En caso de venta, la condición es comprar con cargas y se acepta que si no se puede solucionar, se le devolverá el importe entregado a cuenta de la compra venta.\n- La comunidad aprueba que en caso de que la venta se efectúe, el dinero quede en fondo reserva y se convocará reunión para aprobar su uso."
+      },
+      {
+        "id": 6,
+        "text": "Igualmente se comenta que la cuota del parking se debe equiparar a sus gastos reales.\nPARKING 43.749,06€."
+      },
+      {
+        "id": 0,
+        "text": "Se solicitará al seguro de la comunidad, que la reclamación de los propietarios morosas quede incluido en la póliza."
+      }
+    ],
+    "tags": "actas, portería, importante, parking",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2016/2016_22_septiembre-acta-ordinaria.pdf",
+    "id": "work19"
+  },
+  {
+    "date": "12 Dic 2016",
+    "title": "Junta General Extraordinaria",
+    "president": "Ángel  Pulido Albero 4º2a",
+    "content": [
+      {
+        "id": 7,
+        "text": "En cuanto al primer punto del orden del día, respecto a la venta de la vivienda de la comunidad, denominada 1o1a, <span style='font-weight: bold;color: #a61c00;'>y que se aprobó en reunión anterior</span><span style='font-weight: bold;color: #cc0000;'>,</span> se explica las condiciones establecidas para su venta:\n• Se han depositado la cantidad de <span style='font-weight: bold;'>24.000 €,</span> que no implica aceptación de ningún tipo ya que se debe votar.\n• Que las condiciones establecidas son las siguientes:\n- El precio de venta es de <span style='font-weight: bold;'>120.000 €</span>.\n- Se estipula un plazo de <span style='font-weight: bold;color: #a61c00;'>24 meses </span>para poder escriturar, ya que se debe legalizar la\nvivienda. <span style='font-weight: bold;'>En caso de que no se pueda legalizar, la comunidad solo estará obligada a devolver la cantidad entregada</span>. Si se realizan obras en el piso o se alquila, quedarán en beneficio de la comunidad sin indemnización de ningún tipo por parte de la misma.\n- <span style='color: #a61c00;'>Que se harán cargo de los gastos de la comunidad a partir de la firma del documento de compromiso .</span><span style='font-weight: bold;'>¿Cuál es ese compromiso?.</span>\n\n"
+      }
+    ],
+    "tags": "actas, importante, portería",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2016/2016_12_diciembre-acta-extraordinaria.pdf",
+    "id": "work20"
+  },
+  {
+    "date": "1 Mar 2017",
+    "title": "1as Arras peniteciales",
+    "president": "Ángel  Pulido Albero 4º2a",
+    "content": [
+      {
+        "id": 7,
+        "text": "<span style='font-weight: bold;'>Leer el contenido  -SE ENVIÓ EN FECHA A LOS PRESIDENTES LAS ARRAS???\nObservaciones:</span> en el fichero adjunto, una de las firmas es en color. Da la sensación que se ha firmado en otro momento distinto al de la fecha del documento. Y según los metadatos del fichero, este se creó el 19 dic 2024 20:59 - Curioso porque el mail de envío es del 19 dic 2024 12:28. \nProducido por: HP Scan Extended Application\n\nOtro dato curioso es que el archivo enviado al presidente Jorge Casas en fecha xx/xx/xxxx el archivo que documento el acuerdo: 'CONTRATO ARRAS VENTA PISO PORTERIA.pdf' \n<span style='font-weight: bold;'>Fecha de creación:</span> 3 dic 2018 14:07\n<span style='font-weight: bold;'>Creador de contenido:</span> Canon iR-ADV C5235  PDF\n*NO APARECE LA FIRMA DE PEDRO PÉREZ\n<span style='font-weight: bold;'></span>"
+      }
+    ],
+    "tags": "portería, portería-venta",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/VENTA/2017_03_01-arras-penitenciales.pdf",
+    "id": "work21"
+  },
+  {
+    "date": "19 Jun 2017",
+    "title": "Junta General Ordinaria",
+    "president": "Lope García-Verdugo Galeote, 4o1a",
+    "content": [
+      {
+        "id": 5,
+        "text": "En relación al cuarto punto del orden del día, se acuerda por unanimidad de los asistentes que la Presidenta de la comunidad tramite la denuncia penal en nombre de la comunidad contra el administrador de CGI, el Sr. JORDI PEIRO BUIL y contra el Sr. GABRIEL BUENDÍA GARCÍA DE LA VEGA, por falsificación de documento público."
+      },
+      {
+        "id": 6,
+        "text": "Respecto al Parking, se informa -que está en proceso judicial-, por lo que se solucionará una vez salga la sentencia.\n"
+      }
+    ],
+    "tags": "actas, mancomunidad, parking",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2017/2017_19_junio-acta-ordinaria.pdf",
+    "id": "work22"
+  },
+  {
+    "date": "17 Oct 2018",
+    "title": "Junta General Ordinaria",
+    "president": "Remei Bordons i Closa, 4º6a",
+    "content": [
+      {
+        "id": 2,
+        "text": "Aprobación solicitud certificado digital y cuenta bancaria de la comunidad."
+      },
+      {
+        "id": 5,
+        "text": "Las derramas del patio se acaban para la comunidad en diciembre del presente año, sin saber aún exactamente el final que se tendrá que regularizar."
+      },
+      {
+        "id": 7,
+        "text": "Se comenta la problemática del piso portería, explicando que es responsabilidad de la empresa que en su momento hizo el contrato de arras , y que según se nos ha informado para antes de final de año lo tendrán resuelto. El tema de los suministros <span style='font-weight: bold;'>se están cogiendo directamente de las compañías suministradoras</span>."
+      }
+    ],
+    "tags": "actas, importante, cuenta bancaria, mancomunidad, portería",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2018/2018_17_octubre-acta-ordinaria.pdf",
+    "id": "work23"
+  },
+  {
+    "date": "7 May 2019",
+    "title": "Junta General Extraordinaria",
+    "president": "Remei Bordons i Closa, 4º6a",
+    "content": [
+      {
+        "id": 1,
+        "text": "<span style='font-weight: bold;'>CERRAMIENTO</span>: \nEl arquitecto que fue en su momento Don Antonio Villarejo, no ha podido asistir por estar de baja por enfermedad. Se informa de todas maneras <span style='font-weight: bold;'>que como arquitecto en su momento dijo que el espacio era de la comunidad y podría existir una responsabilidad</span>, que la comunidad estudiará, si fuera el caso, iniciar alguna <span style='color: #a61c00;'>reclamación</span>.\nSe facilitará copia de la sentencia, dictamen, <span style='font-weight: bold;'>factura del abogado</span> y recursos."
+      },
+      {
+        "id": 7,
+        "text": "<span style='font-weight: bold;'>PORTERÍA</span>: \nEn relación al piso de la comunidad, se explica que <span style='color: #a61c00;'>de acuerdo con el documento de arras firmado la comunidad no tiene responsabilidad alguna</span>, <span style='font-weight: bold;'>y que solo está a la espera de la respuesta de</span> <span style='font-weight: bold;color: #a61c00;'>un banco</span> BBVA, para que de su autorización y <span style='font-weight: bold;'>poder</span> <span style='font-weight: bold;'>escriturar</span>. En este punto se explica que una vez se pueda escriturar, si la parte compradora no se presentase a la firma, la comunidad recuperaría la vivienda, quedando a su favor las obras realizadas y las arras."
+      },
+      {
+        "id": 6,
+        "text": "<span style='font-weight: bold;'>PARKING</span>:\nIgualmente se explica que en relación a la <span style='font-weight: bold;'>demanda contra el Parking</span> para el pago de su parte a las diferentes escaleras, <span style='font-weight: bold;'>se ha perdido en el supremo</span> por lo que no existe posibilidad de recurrir la misma, con garantías suficientes. Se explica que en caso de cualquier duda se puede estudiar la demanda y<span style='color: #a61c00;'> </span><span style='font-weight: bold;color: #a61c00;'>si se considera que el abogado se ha equivocado se podría proceder a una reclamación por negligencia</span><span style='font-weight: bold;color: #cc0000;'>,</span> si fuera el caso.\n-Se incluirá la sentencia a la documentación a entregar a los propietarios. <span style='font-weight: bold;'>¿Fué así?</span>"
+      },
+      {
+        "id": 0,
+        "text": "Actuar sobre el terrado."
+      }
+    ],
+    "tags": "actas, cerramiento, parking, portería, importante",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2019/2019_7_mayo-acta-extraordinaria.pdf",
+    "id": "work24"
+  },
+  {
+    "date": "23 Jul 2019",
+    "title": "2as Arras peniteciales complementarias",
+    "president": "Jorge Casas Miguel, 4o7a",
+    "content": [
+      {
+        "id": 7,
+        "text": "<span style='font-weight: bold;'>Resumen</span>:\nLA FIRMA DE PEDRO NO SE PARECE EN NADA A LA DE LAS PRIMERAS ARRAS.\nDe la copia enviada a M17 los metadata dice que:\n<span style='font-weight: bold;'>Fecha de creación:</span> 19 dic 2024 21:01. \n<span style='font-weight: bold;'>Creador de contenido:</span> HP Scan Extended Application\n\nDe las 2 copias enviada al presidente en ese momento en el archivos, como primera versión. Los metadas arrojan la siguiente información: SE INCLUYEN EN EL ARCHIVO DEL ENLACE las dos versiones.\n<span style='font-weight: bold;'>\nNombre del archivo</span>: COMPLEMENTO ARRAS SIN COMPRAVENTA.pdf\n<span style='font-weight: bold;'>Autor</span>: David\n<span style='font-weight: bold;'>Creador de contenido</span>: Microsoft® Word 2010\n<span style='font-weight: bold;'>Fecha de creación</span>: 23 jul 2019 14:05\n\n<span style='font-weight: bold;'>Nombre del archivo: </span>COMPLEMENTO ARRAS SIN COMPRAVENTA-1.pdf\n<span style='font-weight: bold;'>Autor:</span> pedro\n<span style='font-weight: bold;'>Creador de contenido:</span> pdfFactory www.pdffactory.com\n<span style='font-weight: bold;'>Fecha de creación: </span>24 jul 2019 12:37"
+      }
+    ],
+    "tags": "portería, portería-venta",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/VENTA/2019_07_23-arras-penitenciales-complementarias.pdf",
+    "id": "work25"
+  },
+  {
+    "date": "3 Oct 2019",
+    "title": "Junta General Ordinaria",
+    "president": "Jorge Casas Miguel, 4o7a",
+    "content": [
+      {
+        "id": 0,
+        "text": "Junta de obras: 4o9a, 5o1a, 5o8a y 4o1a."
+      },
+      {
+        "id": 2,
+        "text": "Se recuerda el Nº de la cuenta de la comunidad: ES82-0182-4609-9602-0072-4079."
+      },
+      {
+        "id": 7,
+        "text": "Se hace referencia al tema de la venta de la portería, previa su desafección. Se recuerdan los extremos acordados en su día, a fin de informar a los propietarios que, desde entonces, se han incorporado a la finca. Así:\nEn las Juntas Generales de fechas 2/2/16. 22/9/16 y 12/12/16 se tomaron los siguientes acuerdos: _MIRAR_\n-Igualmente se hace constar que la vivienda fue vendida a <span style='font-weight: bold;color: #a61c00;'>ADQUISICIONES INMOBILIARIAS LOPEZ SL</span>, con domicilio en calle Circunvalación 4 5 y CIF no B66749581, habiéndose percibido por la Comunidad la cantidad de 74.000 €, en concepto de arras penitenciales, a fecha 23 de julio de 2019, quedando pendiente la cantidad de 46.000 €.\n<span style='font-weight: bold;'>Los asistentes ratifican los acuerdos mencionados,</span> así como sus <span style='font-weight: bold;'>términos y condiciones</span>.\n"
+      }
+    ],
+    "tags": "actas, cuenta bancaria, portería, importante",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2019/2019_3_octubre-acta-ordinaria.pdf",
+    "id": "work26"
+  },
+  {
+    "date": "3 Dic 2019",
+    "title": "Escritura Desafectacion Elemento Común (Con Cargas Sin Cancelar)",
+    "president": "Jorge Casas Miguel, 4o7a",
+    "content": [
+      {
+        "id": 7,
+        "text": "<span style='font-weight: bold;'>Escritura documento legal.</span> \n"
+      }
+    ],
+    "tags": "portería, portería-venta",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/VENTA/2019_12_03-ESCRITURA%20DESAFECTACION%20ELEMENTO%20COMUN%20(CON%20CARGAS%20SIN%20CANCELAR).pdf",
+    "id": "work27"
+  },
+  {
+    "date": "21 Abr 2021",
+    "title": "Junta General Ordinaria",
+    "president": "Oscar Ávila Rodriguéz, 4o9a",
+    "content": [
+      {
+        "id": 7,
+        "text": "Procede interponer demanda a los ocupas del piso de la vivienda comunitaria , y dar poderes notariales al abogado."
+      }
+    ],
+    "tags": "actas, portería, importante",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2021/2021_21_abril-acta-ordinaria.pdf",
+    "id": "work28"
+  },
+  {
     "date": "2 Nov 2021",
     "title": "Apertura de diligencias",
     "president": "Oscar Ávila Rodriguéz, 4o9a",
@@ -75,7 +495,7 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2021_11_02_honorarios-procuradora.pdf",
-    "id": "work5"
+    "id": "work29"
   },
   {
     "date": "4 Mar 2022",
@@ -84,11 +504,213 @@
     "content": [
       {
         "id": 8,
-        "text": "Resumen:\nLa demanda, presentada por la <span style='font-weight: bold;'>Comunidad de Propietarios</span>, busca desalojar a personas desconocidas que están ocupando una vivienda sin permiso. El caso se tramitará como un \"<span style='font-weight: bold;'>juicio verbal de desahucio por precario</span>\", que es un tipo de procedimiento legal para recuperar la posesión de una propiedad.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla"
+        "text": "<span style='font-weight: bold;'>Resumen</span>:\nLa demanda, presentada por la Comunidad de Propietarios, busca desalojar a personas desconocidas que están ocupando una vivienda sin permiso. El caso se tramitará como un \"<span style='font-weight: bold;'>juicio verbal de desahucio por precario</span>\", que es un tipo de procedimiento legal para recuperar la posesión de una propiedad.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla"
       }
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_03_04_juicio_verbal_primera.pdf",
-    "id": "work6"
+    "id": "work30"
+  },
+  {
+    "date": "15 Mar 2022",
+    "title": "Juicio Verbal Primera Instancia",
+    "president": "Guillém Martínez Bosch, 5o1a",
+    "content": [
+      {
+        "id": 8,
+        "text": "<span style='font-weight: bold;'>Resumen:</span> \nNotificación oficial del juzgado que informa a las personas que están ocupando la vivienda de que tienen un juicio y deben presentarse en el juzgado para defenderse.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_03_15_juicio_verbal_primera.pdf",
+    "id": "work31"
+  },
+  {
+    "date": "6 Abr 2022",
+    "title": "Juicio Verbal Primera Instancia",
+    "president": "Guillém Martínez Bosch, 5o1a",
+    "content": [
+      {
+        "id": 8,
+        "text": "<span style='font-weight: bold;'>Resumen</span>:\n\nLa sentencia trata sobre la suspensión del procedimiento judicial debido a que la parte demandada solicitó un abogado y procurador de oficio. El juez decide suspender el procedimiento hasta que se resuelva la solicitud de asistencia jurídica gratuita o se designen los profesionales correspondientes.\nLa jueza prioriza el derecho a la defensa de la parte demandada y suspende el procedimiento para garantizar que tenga acceso a asistencia jurídica gratuita si cumple con los requisitos.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla\nParte Demandada: Ignorados Ocupantes  Y , Dolores Hernanz Conde\nProcurador/a: Francisca Jose Ruiz Fernandez"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_04_06_juicio_verbal_primera.pdf",
+    "id": "work32"
+  },
+  {
+    "date": "22 Jun 2022",
+    "title": "Junta General Ordinaria",
+    "president": "Guillém Martínez Bosch, 5o1a",
+    "content": [
+      {
+        "id": 2,
+        "text": "Aprobación solicitud o renovación certificado digital y cuenta bancaria de la comunidad.\npor parte del Presidente i/o Administrador y a la vez que éste <span style='font-weight: bold;'>vigile diariamente las posibles notificaciones</span> que puedan llegar al <span style='font-weight: bold;'>buzón habilitado</span>, pues en caso contrario, las <span style='font-weight: bold;'>sanciones</span> previstas, económicas y administrativas, son importantes a la vez que a los 10 días de su notificación en la Dirección Electrónica Habilitada se da por notificada y comienzan a correr los plazos.\nEn cuanto a la recepción de las notificaciones electrónicas aprueban los asistentes recaigan en:\nDon/ña MARIA LOURDES ROSENDO MORENO."
+      },
+      {
+        "id": 3,
+        "text": "Presupuestos para el cambio de los montantes del gas."
+      }
+    ],
+    "tags": "actas, cuenta bancaria, gas",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2022/2022_22_junio-acta-ordinaria.pdf",
+    "id": "work33"
+  },
+  {
+    "date": "19 Sep 2022",
+    "title": "Juicio Verbal Primera Instancia",
+    "president": "Guillém Martínez Bosch, 5o1a",
+    "content": [
+      {
+        "id": 8,
+        "text": "<span style='font-weight: bold;'>Resumen de la Sentencia:</span>\n\nLa jueza ha decidido que los ocupantes deben abandonar la vivienda porque no son los dueños ni tienen permiso para estar allí. La Comunidad de Propietarios, que sí es la dueña, tiene derecho a recuperar su propiedad.\n\n<span style='font-weight: bold;'>Argumentos Clave:\n</span>\n<span style='font-weight: bold;'>La Comunidad de Propietarios tiene derecho a reclamar la vivienda:</span>\n    La jueza considera que la Comunidad de Propietarios demostró ser la dueña de la vivienda.\n    Además, la comunidad de propietarios aportó un acta donde se autorizaba al presidente de la comunidad a actuar contra los ocupantes.\n<span style='font-weight: bold;'>Los ocupantes no tienen derecho a estar en la vivienda:</span>\n    Los ocupantes no presentaron ningún documento que demostrara que tenían permiso para vivir allí.\n    La jueza explica que el \"precario\" significa usar una propiedad sin pagar y sin tener un derecho legítimo.\n<span style='font-weight: bold;'>Decisión Final:</span>\n    La jueza ordena a los ocupantes que se vayan de la vivienda.\n    También les obliga a pagar las costas del juicio.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla\nParte Demandada: Ignorados Ocupantes Y Dolores Hernanz Conde\nProcurador/a: Francisca Jose Ruiz Fernandez\nAbogado/a: Pablo Luis Bernabéu Anguera"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_09_19_juicio_verbal_primera.pdf",
+    "id": "work34"
+  },
+  {
+    "date": "20 Dic 2022",
+    "title": "Juicio Verbal Primera Instancia",
+    "president": "Guillém Martínez Bosch, 5o1a",
+    "content": [
+      {
+        "id": 8,
+        "text": "<span style='font-weight: bold;'>Resumen</span>:\n\nEl juzgado dio la razón a la parte demandada y anuló la decisión anterior, ordenando que se espere a la resolución definitiva del procedimiento antes de proceder con el desalojo, debido a que no se habían respetado los plazos legales y se había vulnerado el derecho de defensa de la parte demandada.\n\n<span style='font-weight: bold;'>Argumentos clave:</span>\n\n<span style='font-weight: bold;'>Incumplimiento del plazo legal:</span> La parte demandada alegó que el juzgado ordenó el desalojo sin respetar el plazo de 20 días establecido por la ley para el cumplimiento voluntario de la sentencia.\n<span style='font-weight: bold;'>Vulneración del derecho de defensa:</span> La parte demandada también argumentó que la decisión del juzgado vulneraba su derecho de defensa, ya que no se les había notificado la sentencia en el momento en que se ordenó el desalojo.\n<span style='font-weight: bold;'>Nulidad del precepto legal: </span>El juzgado señaló que el Tribunal Constitucional había declarado nulo un precepto de la ley que impedía recurrir ciertas decisiones de los letrados de la administración de justicia, lo que permitía a la parte demandada recurrir la decisión del juzgado.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla\nParte Demandada: Ignorados Ocupantes Y Dolores Hernanz Conde\nProcurador/a: Francisca Jose Ruiz Fernandez\nAbogado/a: Pablo Luis Bernabéu Anguera"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_12_20_juicio_verbal_primera.pdf",
+    "id": "work35"
+  },
+  {
+    "date": "3 Abr 2023",
+    "title": "Ejecucion Provisional Primera Instancia",
+    "president": "Gemma González Martínez 5o4a",
+    "content": [
+      {
+        "id": 8,
+        "text": "<span style='font-weight: bold;'>Resumen:\n</span>La jueza ha ordenado que las personas que viven en el piso, persona identificada como DHC y a \"ignorados ocupantes\", tienen que irse. Les dan un mes para hacerlo, en fecha el <span style='font-weight: bold;'>31 de mayo de 2023</span> se procederá al desalojo forzoso. También tienen que llevarse sus cosas, o las perderán. Si no están de acuerdo con la decisión, pueden presentar un recurso. \n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla\nParte Demandada: Ignorados Ocupantes Y Dolores Hernanz Conde\nProcurador/a: Francisca Jose Ruiz Fernandez"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2023_04_03_ejecucion_provisional_primera.pdf",
+    "id": "work36"
+  },
+  {
+    "date": "28 Abr 2023",
+    "title": "Oposicion Ejecucion-Primera Instancia",
+    "president": "Gemma González Martínez 5o4a",
+    "content": [
+      {
+        "id": 0,
+        "text": "<span style='font-weight: bold;'>[8"
+      },
+      {
+        "id": 0,
+        "text": "- Resumen:</span>\n\nEsta sentencia dice que la persona que vive en la vivienda (la \"ejecutada\") presentó una queja (oposición) contra la orden de desalojo, argumentando que si se lleva a cabo el desalojo y luego se revoca la orden, sería muy difícil o imposible para ella volver a la situación anterior, ya que perdería su hogar.\n\nLa juez estuvo de acuerdo con la persona que vive en la vivienda. Consideró que el desalojo causaría un daño irreparable, ya que sería muy difícil compensar económicamente a la persona por la pérdida de su hogar. Por lo tanto, la juez decidió suspender la orden de desalojo hasta que se resuelva el recurso de apelación.\n\n<span style='font-weight: bold;'>Argumentos clave:</span>\n\n<span style='font-weight: bold;'>Dificultad de restauración:</span>\nLa principal razón para suspender el desalojo es que sería extremadamente difícil o imposible restaurar la situación anterior si se revoca la sentencia inicial.\nLa pérdida de vivienda se considera un daño difícil de compensar económicamente.\n<span style='font-weight: bold;'>Ausencia de garantía:</span>\nLa parte demandante no ofreció ninguna garantía (caución) para asegurar que, en caso de revocación de la sentencia, la persona desalojada sería devuelta a su situación anterior.\n<span style='font-weight: bold;'>Prevalencia del daño irreparable:</span>\nEl juez priorizó evitar un daño irreparable a la persona que vive en la vivienda, incluso si eso significa retrasar el proceso de desalojo.\nEn resumen, el juez decidió que el riesgo de causar un daño irreparable a la persona que vive en la vivienda era mayor que el beneficio de ejecutar el desalojo de inmediato.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla\nParte Demandada: Ignorados Ocupantes Y Dolores Hernanz Conde\nProcurador/a: Francisca Jose Ruiz Fernandez\n"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2023_04_28_oposicion_ejecucion-primera.pdf",
+    "id": "work37"
+  },
+  {
+    "date": "21 Jun 2023",
+    "title": "Junta General Ordinaria",
+    "president": "Gemma González Martínez 5o4a",
+    "content": [
+      {
+        "id": 3,
+        "text": "Instalación del gas, se le exigirá la reparación de las cornisas que han roto."
+      },
+      {
+        "id": 7,
+        "text": "El relación al tema del piso de la comunidad, sigue su camino tanto para intentar finalizar la venta, como desocupar el mismo."
+      },
+      {
+        "id": 0,
+        "text": "Se pregunta a los propietarios si estarían de acuerdo en estudiar el cerramiento de la manzana, a lo cual nadie se opone durante la reunión. Después de la reunión los locales hacen el comentario de que no están de acuerdo."
+      }
+    ],
+    "tags": "actas, gas, cerramiento, portería",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2023/2023_21_junio-acta-ordinaria.pdf",
+    "id": "work38"
+  },
+  {
+    "date": "14 Nov 2023",
+    "title": "Junta General Extraordinaria",
+    "president": "Gemma González Martínez, 5o4a",
+    "content": [
+      {
+        "id": 3,
+        "text": "<span style='font-weight: bold;'>El gas</span>: se tiene pendiente los posibles daños ocasionados durante la instalación."
+      },
+      {
+        "id": 7,
+        "text": "En relación al tema del <span style='font-weight: bold;'>piso de la comunidad </span>se comenta que está en el juzgado el tema de los <span style='font-weight: bold;'>ocupas</span>, esperando se resuelva de una vez por todas.\nEn relación a terminar la gestión <span style='color: #a61c00;'>quedan algunos pisos </span>que deben solicitar <span style='font-weight: bold;'>certificado de cancelación hipotecaria</span> y los más complicados que son las entidades bancarias, que deben dar su permiso para poder firmar la escritura.\n"
+      }
+    ],
+    "tags": "actas, gas, portería",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2023/2023_14_noviembre-acta-extraordinaria.pdf",
+    "id": "work39"
+  },
+  {
+    "date": "14 Dic 2023",
+    "title": "Recurso Apelacion Provincial",
+    "president": "Gemma González Martínez, 5o4a",
+    "content": [
+      {
+        "id": 8,
+        "text": "<span style='font-weight: bold;'>Resumen:</span>\n\nEste documento es una orden judicial que responde a un escrito presentado por la Comunidad de Propietarios de un edificio. La orden indica que <span style='font-weight: bold;'>el escrito ha sido aceptado y se ha añadido al caso</span>. Además, se confirma que se seguirá adelante con el proceso legal, específicamente con la votación y fallo del recurso, cuando llegue su turno.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla\nParte Demandada: Ignorados Ocupantes Y Dolores Hernanz Conde\nProcurador/a: Francisca Jose Ruiz Fernandez\nAbogado/a: Pablo Luis Bernabéu Anguera"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2023_12_14_recurso_apelacion_provincial.pdf",
+    "id": "work40"
+  },
+  {
+    "date": "17 Abr 2024",
+    "title": "Junta General Ordinaria",
+    "president": "Francisco Javier Simón Closas, 5o5a",
+    "content": [
+      {
+        "id": 3,
+        "text": "Les obres d'instal·lació de gas, durant les quals s'han causat danys a les zones comunitàries. <span style='font-weight: bold;'>L'administrador ha optat per retenir la factura final </span>dels industrials responsables fins que aquests reparin els danys causats. Aquesta decisió subratlla la importància de responsabilitzar les empreses pels perjudicis ocasionats durant els seus treballs, assegurant així el benestar i la integritat dels espais comuns."
+      }
+    ],
+    "tags": "actas, gas",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2024/2024_17_abril-acta-ordinaria.pdf",
+    "id": "work41"
+  },
+  {
+    "date": "3 Sep 2024",
+    "title": "Recurso Apelacion Provincial",
+    "president": "Francisco Javier Simón Closas, 5o5a",
+    "content": [
+      {
+        "id": 8,
+        "text": "<span style='font-weight: bold;'>Resumen:</span>\n\nEste documento es una orden de un juzgado de Barcelona. El juzgado ha recibido una petición de una persona (<span style='color: #a61c00;'>*la Demandada)???</span> que quiere que su caso se resuelva rápido porque lleva mucho tiempo esperando. Sin embargo, el juzgado dice que seguirá el orden normal de los casos y que el caso de esta persona se resolverá cuando le toque.\n\nProcurador/a: Lorena Moreno Rueda\nAbogado/a: Francesc Gonzalvez Escanilla\nParte Demandada: Ignorados Ocupantes Y Dolores Hernanz Conde\nProcurador/a: Francisca Jose Ruiz Fernandez\nAbogado/a: Pablo Luis Bernabéu Anguera"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2024_09_03_recurso_apelacion_provincial.pdf",
+    "id": "work42"
+  },
+  {
+    "date": "28 Ene 2025",
+    "title": "Correo del abogado Francesc Gonzalvez",
+    "president": "Francisco Javier Simón Closas, 5o5a",
+    "content": [
+      {
+        "id": 8,
+        "text": "Bon dia Sr, Simón,\n\nEn aquest procediment nosaltres hem anat informant regularment a la comunitat de l’estat del procés.\n\nEn suma l’estat és el següent:\n\n1.- Al novembre de 2021es va presentar demanda.\n\n2.- La “okupa” va agafar advocat i va presentar oposició a la demanda per allargar, si bé el 19 de setembre de 2022 es va dictar sentència estimant la demanda. Que adjuntem.\n\n3.- Novament la ocupant per allargar va presentar recurs d’apel·lació, donant lloc al recurs d’apelació 511/2023-D de la Secció 11 de la Audiència Provincial de Barcelona.\n\n4.- Vàrem intentar executar provisionalment per fer fora a l’ocupant via execució provisional, i el jutjat ens ho va desestimar. Adjuntem auto que va desestimar l’execució provisional.\n\n5.- Per tant, hem d’esperar a que resolgui l’audiència el recurs d’apelació, i després executar per fer-la fora. El problema és que aquesta secció de l’Audiència va molt saturada, i l’últim que van dir a la procuradora és que fins 2026 no creuen que puguin resoldre.\n\nSalutacions,"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "",
+    "id": "work43"
   }
 ]
