@@ -10,7 +10,7 @@ var jsonData = {};
 inicio2();
 
 function inicio2(){
- fetch('https://raw.githubusercontent.com/gonzashan/M17/3e62c1621b7113aefe905d4383aadb2c14f7d43d/PROJECT_TIMELINE/timeline_data.json')
+ fetch('timeline_data.json')
 
   .then(function(response) {
     // Verifica si la solicitud fue exitosa (código de estado 200)
