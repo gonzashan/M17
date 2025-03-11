@@ -623,8 +623,16 @@
     "president": "Gemma González Martínez 5o4a",
     "content": [
       {
+        "id": 0,
+        "text": "La Comunidad de Propietarios debe cumplir con la normativa de prevención de riesgos laborales, ya que en sus instalaciones trabajan diversas empresas (limpieza, ascensores, etc.).<br>Esto implica informar sobre los riesgos del lugar de trabajo, las medidas de prevención y los planes de emergencia, así como verificar que las empresas contratadas cumplan con la ley.<br>El administrador de la finca informa sobre esta obligación legal, recordando que ya existen sentencias condenatorias por incumplimiento, y recomienda contratar empresas especializadas para gestionar la prevención de riesgos laborales.<br>Una vez informada, la comunidad de propietarios es responsable de tomar las medidas necesarias, quedando el administrador libre de responsabilidad."
+      },
+      {
+        "id": 2,
+        "text": "<br>En cuanto a la cuenta bancaria de la comunidad, se recuerda que las comisiones actualmente son muy<br>elevadas para una cuenta de comunidad."
+      },
+      {
         "id": 3,
-        "text": "Instalación del gas, se le exigirá la reparación de las cornisas que han roto."
+        "text": "<br>Instalación del gas, se le exigirá la reparación de las cornisas que han roto."
       },
       {
         "id": 7,
@@ -633,6 +641,10 @@
       {
         "id": 1,
         "text": "<br>Se pregunta a los propietarios si estarían de acuerdo en estudiar el cerramiento de la manzana, a lo cual nadie se opone durante la reunión. Después de la reunión los locales hacen el comentario de que no están de acuerdo."
+      },
+      {
+        "id": 6,
+        "text": "<br>d) Está pendiente de arreglar por el seguro, el tejadillo del hueco del parking."
       }
     ],
     "tags": "actas, gas, cerramiento, portería",
