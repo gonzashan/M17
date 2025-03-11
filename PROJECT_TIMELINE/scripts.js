@@ -10,8 +10,7 @@ var jsonData = {};
 inicio2();
 
 function inicio2(){
-
-fetch('https://raw.githubusercontent.com/gonzashan/M17/e4eebf8f3a1f1af4507e8593cb08d2f54448c333/PROJECT_TIMELINE/timeline_data.json')
+ fetch('https://raw.githubusercontent.com/gonzashan/M17/bc88a347bac540a5f9922914c85411cf13a942e8/PROJECT_TIMELINE/timeline_data.json')
 
   .then(function(response) {
     // Verifica si la solicitud fue exitosa (código de estado 200)
@@ -24,7 +23,7 @@ fetch('https://raw.githubusercontent.com/gonzashan/M17/e4eebf8f3a1f1af4507e8593c
   .then(function(data) {
     // Los datos del archivo JSON están disponibles en la variable 'data'
     jsonData= data;
-    fadeOutAndHide('file');    
+    fadeInAndShow('tag-filter');   
     // Puedes trabajar con los datos aquí, por ejemplo, mostrarlos en una página web
     // o procesarlos de alguna manera.
   })
@@ -34,6 +33,29 @@ fetch('https://raw.githubusercontent.com/gonzashan/M17/e4eebf8f3a1f1af4507e8593c
     console.error('Ocurrió un error:', error);
   });
 }
+
+
+function inicio(){
+      const inputArchivo = document.getElementById('fileUpload');
+      inputArchivo.addEventListener('change', () => {
+      const archivo = inputArchivo.files[0];
+      const lector = new FileReader();
+
+      lector.onload = (evento) => {
+        try {
+          jsonData = JSON.parse(evento.target.result);
+
+          fadeOutAndHide('file');          
+          //timeLineLoad(jsonData); // Muestra los datos en la consola        
+          // Ejemplo: Mostrar los datos en el div 'contenido'
+        } catch (error) {
+          alert('Error al analizar JSON:', error);
+          console.error('Error al analizar JSON:', error);
+        }
+      };
+
+      lector.readAsText(archivo);});
+}      
 
 
 function fadeOutAndHide(elementId) {
@@ -101,6 +123,52 @@ function timeLineLoad(timelineData){
 }
 
 
+
+function filterItems(data, tag) {
+  const jsonDataFlitered = [];
+  var nRegisters = 0;
+  const timelineContainer = document.getElementById('timeline'); // Obtén el contenedor
+
+  // Aplica fade-out
+  timelineContainer.classList.add('fade-out');
+
+  setTimeout(() => {
+    timelineContainer.innerHTML = ''; // Limpiar el contenedor
+
+    data.forEach(item => {
+      if (tag === '' || item.tags.includes(tag)) {
+        // Filtrar párrafos por tag
+        var contentFiltrado = [];
+        if (tag === 'actas' || tag === 'importante' || tag === '') {
+          // Mostrar todos los párrafos si el tag es 'actas' o no hay tag seleccionado
+          contentFiltrado = item.content;
+        } else {
+          // Mostrar solo los párrafos con el ID correspondiente al tag
+          var idTag = tags_diccionario[tag];
+          if (idTag) {
+            contentFiltrado = item.content.filter(parrafo => parrafo.id === idTag);
+          }
+        }
+
+        // Crear un nuevo objeto con el contenido filtrado
+        var itemFiltrado = { ...item, content: contentFiltrado };
+        jsonDataFlitered.push(itemFiltrado);
+        nRegisters++;
+      }
+    });
+
+    timeLineLoad(jsonDataFlitered);
+    document.getElementById('registers').textContent = 'Nº Registros: ' + nRegisters;
+
+    // Quita fade-out y aplica fade-in
+    timelineContainer.classList.remove('fade-out');
+    timelineContainer.classList.add('fade-in');
+  }, 800); // Ajusta el tiempo para que coincida con la duración de tu animación fade-out
+}
+
+
+
+/*
 function filterItems(data, tag) {
   const jsonDataFlitered = [];
   var nRegisters = 0;
@@ -110,7 +178,7 @@ function filterItems(data, tag) {
     if (tag === '' || item.tags.includes(tag)) {
       // Filtrar párrafos por tag
       var contentFiltrado = [];
-      if (tag === 'actas' || tag === '') {
+      if (tag === 'actas' || tag === 'importante' || tag === '') {
         // Mostrar todos los párrafos si el tag es 'actas' o no hay tag seleccionado
         contentFiltrado = item.content;
       } else {
@@ -131,6 +199,9 @@ function filterItems(data, tag) {
   timeLineLoad(jsonDataFlitered);
   document.getElementById('registers').textContent = 'Nº Registros: ' + nRegisters;
 }
+
+*/
+
 
 /*
 function filterItems(data,tag) {
@@ -192,3 +263,8 @@ function populateTagFilter(tagsArray) {
     select.appendChild(option);
   });
 }
+
+// Cambiar el texto de la primera opción al abrir el select
+tagFilter.addEventListener('focus', () => {
+  tagFilter.options[0].textContent = '-Seleccionar todo-';
+});
