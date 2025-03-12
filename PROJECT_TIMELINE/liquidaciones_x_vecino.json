@@ -721,7 +721,7 @@
       "SALDO LIQUIDACIÓN": "0,02"
     },
     {
-      "PISO": "Total",
+      "PISO": "Totales",
       "GASTO x COEFIC.": "62.482,26",
       "GASTOS TODOS": "-3.514,41",
       "GASTO INDIVID.": "0,00",
@@ -1455,7 +1455,7 @@
       "SALDO LIQUIDACIÓN": "-0,11"
     },
     {
-      "PISO": "Total",
+      "PISO": "Totales",
       "GASTO x COEFIC.": "45.346,70",
       "GASTOS TODOS": "18.395,92",
       "GASTO INDIVID.": "58,25",
@@ -2189,7 +2189,7 @@
       "SALDO LIQUIDACIÓN": "-0,20"
     },
     {
-      "PISO": "Total",
+      "PISO": "Totales",
       "GASTO x COEFIC.": "-86.217,58",
       "GASTOS TODOS": "-21.212,68",
       "GASTO INDIVID.": "0,00",
@@ -2923,7 +2923,7 @@
       "SALDO LIQUIDACIÓN": "-0,20"
     },
     {
-      "PISO": "Total",
+      "PISO": "Totales",
       "GASTO x COEFIC.": "-9.532,50",
       "GASTOS TODOS": "29.678,98",
       "GASTO INDIVID.": "0,00",
@@ -3657,7 +3657,7 @@
       "SALDO LIQUIDACIÓN": "-0,27"
     },
     {
-      "PISO": "Total",
+      "PISO": "Totales",
       "GASTO x COEFIC.": "-31.369,68",
       "GASTOS TODOS": "-20.641,08",
       "GASTO INDIVID.": "0,00",
@@ -4391,7 +4391,7 @@
       "SALDO LIQUIDACIÓN": "-0,30"
     },
     {
-      "PISO": "Total",
+      "PISO": "Totales",
       "GASTO x COEFIC.": "-17.738,12",
       "GASTOS TODOS": "-18.267,86",
       "GASTO INDIVID.": "0,00",
@@ -5125,7 +5125,7 @@
       "SALDO LIQUIDACIÓN": "-0,25"
     },
     {
-      "PISO": "Total",
+      "PISO": "Totales",
       "GASTO x COEFIC.": "-17.342,07",
       "GASTOS TODOS": "-21.112,15",
       "GASTO INDIVID.": "0,00",
@@ -5847,7 +5847,7 @@
       "SALDO LIQUIDACIÓN": "-0,25"
     },
     {
-      "PISO": "Total",
+      "PISO": "Totales",
       "GASTO x COEFIC.": "-10.479,75",
       "GASTOS TODOS": "-20.380,85",
       "GASTO INDIVID.": "0,00",
@@ -5859,16 +5859,16 @@
       "SALDO LIQUIDACIÓN": "75.115,29"
     },
     {
-      "PISO": "",
+      "PISO": "Adm.Fincas",
       "GASTO x COEFIC.": "-10.479,75",
       "GASTOS TODOS": "-20.380,85",
-      "GASTO INDIVID.": "0,00",
+      "GASTO INDIVID.": "",
       "TOTAL GASTO": "-73.631,83",
       "COBRO CUOTAS": "0,00",
       "COBRO DERRAMAS": "-104.492,43",
       "TOTAL COBROS": "44.569,00",
-      "SALDO ANTERIOR": "271.431,94",
-      "SALDO LIQUIDACIÓN": "75.115,29"
+      "SALDO ANTERIOR": "85.384,01",
+      "SALDO LIQUIDACIÓN": "25.460,58"
     }
   ]
 }
