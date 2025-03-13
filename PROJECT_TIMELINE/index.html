@@ -2,13 +2,16 @@
 <html>
 
 <head>
-  <title>Línea de tiempo</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/gonzashan/M17/4aaffa7198e67f278c32d2ac3e2b915c15220c62/PROJECT_TIMELINE/images/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-  <link rel="manifest" href="/images/site.webmanifest">
+  <title>Línea de tiempo M17</title>
+  <link id="estilo1" rel="stylesheet" href="style.css">
+  <link id="estilo2" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+  <link id="estilo3" rel="stylesheet" href="style-liq.css" >
+
+  <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+  <link rel="manifest" href="images/site.webmanifest">
+  
 </head>
 
 <body>
@@ -24,22 +27,33 @@
       </div>
       <select id="tag-filter" class="" style="display: none">
         <option value="">Seleccionar apartado</option>
-       
+
       </select>
     </div>
     <div class="top-section-right">
       <div id="registers"> 
       </div>
   </section>
+
   <section id="timeline" class="timeline-section">
     <ul id="timeline-list">
       <div id="filtered-items">
         </div>
     </ul>
   </section>
+
+  <section class="timeline-section">
+      <div id="liquidaciones-container" style="display: none;" >
+  </div>
+
+  </section>
 </div>
 
 </body>
+<script src="liquidaciones.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="scripts.js"></script>
+
 
 </html>
