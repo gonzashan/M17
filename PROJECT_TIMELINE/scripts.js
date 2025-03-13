@@ -1,13 +1,21 @@
-// Variables globales
+
+const liquidaciones = document.getElementById('liquidaciones-container');
 const tagFilter = document.getElementById('tag-filter');
-var tags_diccionario = {"cerramiento": 1, "cuenta bancaria": 2, "gas": 3, "importante": 4, "mancomunidad": 5, "parking": 6, "portería": 7, "portería-juicio": 8, "portería-venta": 9};
 const filteredItems = document.getElementById('filtered-items');
 const timelineContainer = document.getElementById("timeline");
-const timeFadeout = 1000; 
 
+const timeFadeout = 800; 
+var tags_diccionario = {"cerramiento": 1, "cuenta bancaria": 2, "gas": 3, "importante": 4, "mancomunidad": 5, "parking": 6, "portería": 7, "portería-juicio": 8, "portería-venta": 9};
 var jsonData = {};
 
+// Cambiar el texto de la primera opción al abrir el select
+tagFilter.addEventListener('focus', () => {
+  tagFilter.options[0].textContent = '- Seleccionar todo -';
+});
+
+
 inicio2();
+cargarLiquidaciones();
 
 function inicio2(){
  fetch('timeline_data.json')
@@ -22,7 +30,8 @@ function inicio2(){
   })
   .then(function(data) {
     // Los datos del archivo JSON están disponibles en la variable 'data'
-    jsonData= data;
+    jsonData = data;
+    getTags();
     fadeInAndShow('tag-filter');   
     // Puedes trabajar con los datos aquí, por ejemplo, mostrarlos en una página web
     // o procesarlos de alguna manera.
@@ -32,30 +41,10 @@ function inicio2(){
     alert('Ocurrió un error:', error);
     console.error('Ocurrió un error:', error);
   });
+
 }
 
 
-function inicio(){
-      const inputArchivo = document.getElementById('fileUpload');
-      inputArchivo.addEventListener('change', () => {
-      const archivo = inputArchivo.files[0];
-      const lector = new FileReader();
-
-      lector.onload = (evento) => {
-        try {
-          jsonData = JSON.parse(evento.target.result);
-
-          fadeOutAndHide('file');          
-          //timeLineLoad(jsonData); // Muestra los datos en la consola        
-          // Ejemplo: Mostrar los datos en el div 'contenido'
-        } catch (error) {
-          alert('Error al analizar JSON:', error);
-          console.error('Error al analizar JSON:', error);
-        }
-      };
-
-      lector.readAsText(archivo);});
-}      
 
 
 function fadeOutAndHide(elementId) {
@@ -83,7 +72,7 @@ function fadeInAndShow(elementId) {
     element.style.display = 'block'; // Inicia la animación fadeout
   }
   setTimeout(() => {
-    getTags();
+    
        // Oculta el elemento después del tiempo especificado
     }, timeFadeout);  
 }
@@ -127,12 +116,14 @@ function timeLineLoad(timelineData){
 function filterItems(data, tag) {
   const jsonDataFlitered = [];
   var nRegisters = 0;
-  const timelineContainer = document.getElementById('timeline'); // Obtén el contenedor
+  
 
   // Aplica fade-out
   timelineContainer.classList.add('fade-out');
+ 
 
   setTimeout(() => {
+    liquidaciones.style.display = "none";
     timelineContainer.innerHTML = ''; // Limpiar el contenedor
 
     data.forEach(item => {
@@ -168,65 +159,16 @@ function filterItems(data, tag) {
 
 
 
-/*
-function filterItems(data, tag) {
-  const jsonDataFlitered = [];
-  var nRegisters = 0;
-  timelineContainer.innerHTML = ''; // Limpiar el contenedor
-
-  data.forEach(item => {
-    if (tag === '' || item.tags.includes(tag)) {
-      // Filtrar párrafos por tag
-      var contentFiltrado = [];
-      if (tag === 'actas' || tag === 'importante' || tag === '') {
-        // Mostrar todos los párrafos si el tag es 'actas' o no hay tag seleccionado
-        contentFiltrado = item.content;
-      } else {
-        // Mostrar solo los párrafos con el ID correspondiente al tag
-        var idTag = tags_diccionario[tag];
-        if (idTag) {
-          contentFiltrado = item.content.filter(parrafo => parrafo.id === idTag);
-        }
-      }
-
-      // Crear un nuevo objeto con el contenido filtrado
-      var itemFiltrado = { ...item, content: contentFiltrado };
-      jsonDataFlitered.push(itemFiltrado);
-      nRegisters++;
-    }
-  });
-
-  timeLineLoad(jsonDataFlitered);
-  document.getElementById('registers').textContent = 'Nº Registros: ' + nRegisters;
-}
-
-*/
-
-
-/*
-function filterItems(data,tag) {
-                      
-            const jsonDataFlitered = [];
-            var nRegisters = 0;
-            timelineContainer.innerHTML = ''; // Limpiar el contenedor 
-
-
-            data.forEach(item => {
-                if (tag === '' || item.tags.includes(tag)) {
-                    jsonDataFlitered.push(item);
-                    nRegisters++;
-                }
-            });
-              timeLineLoad(jsonDataFlitered);
-              document.getElementById('registers').textContent = 'Nº Registros: ' + nRegisters;
-
-}
-
-*/
-
 tagFilter.addEventListener('change', () => {
             const selectedTag = tagFilter.value;
-            filterItems(jsonData,selectedTag);
+            
+            if(selectedTag == 'liquidaciones'){
+              preCargarLiquidaciones();
+              
+            } else {
+              filterItems(jsonData,selectedTag);
+            }
+            
         });
 
 
@@ -242,19 +184,21 @@ function getTags() {
       }
     });
 
-  const tagsArray = Array.from(tagsFound).sort(); // Convierte el Set a un array y lo ordena
-  
+  const tagsArray = Array.from(tagsFound).sort();
+  let gasIndex = tagsArray.findIndex(tag => tag.includes('gas'));
+
+  if (gasIndex !== -1) {
+    tagsArray.splice(gasIndex + 1, 0, 'liquidaciones');
+  } else {
+      tagsArray.unshift('liquidaciones');
+  }
+
   populateTagFilter(tagsArray);
 }
 
 
 function populateTagFilter(tagsArray) {
   const select = document.getElementById('tag-filter');
-  
-  // Limpia las opciones existentes (excepto la primera)
-  
-   
-  // Agrega las nuevas opciones desde tagsArray
     tagsArray.forEach(tag => {
     
     const option = document.createElement('option');
@@ -264,7 +208,16 @@ function populateTagFilter(tagsArray) {
   });
 }
 
-// Cambiar el texto de la primera opción al abrir el select
-tagFilter.addEventListener('focus', () => {
-  tagFilter.options[0].textContent = '-Seleccionar todo-';
-});
+
+
+function preCargarLiquidaciones(){
+  
+  timelineContainer.classList.add('fade-out');
+  setTimeout(() => {
+    
+    timelineContainer.innerHTML = '';
+    fadeInAndShow('liquidaciones-container');
+    
+
+  }, 800);
+}
