@@ -3,6 +3,7 @@ const liquidaciones = document.getElementById('liquidaciones-container');
 const tagFilter = document.getElementById('tag-filter');
 const filteredItems = document.getElementById('filtered-items');
 const timelineContainer = document.getElementById("timeline");
+let numeroAnios = 0;
 
 const timeFadeout = 800; 
 var tags_diccionario = {"cerramiento": 1, "cuenta bancaria": 2, "gas": 3, "importante": 4, "mancomunidad": 5, "parking": 6, "portería": 7, "portería-juicio": 8, "portería-venta": 9};
@@ -14,35 +15,32 @@ tagFilter.addEventListener('focus', () => {
 });
 
 
-inicio2();
-cargarLiquidaciones();
+async function inicio2() {
+    try {
+        await cargarLiquidaciones(); // Espera a que cargarLiquidaciones termine
 
-function inicio2(){
- fetch('timeline_data.json')
-
-  .then(function(response) {
-    // Verifica si la solicitud fue exitosa (código de estado 200)
-    if (!response.ok) {
-      throw new Error('No se pudo cargar el archivo JSON.');
+        fetch('timeline_data.json')
+            .then(function (response) {
+                if (!response.ok) {
+                    throw new Error('No se pudo cargar el archivo JSON.');
+                }
+                return response.json();
+            })
+            .then(function (data) {
+                jsonData = data;
+                getTags();
+                fadeInAndShow('tag-filter');                
+            })
+            .catch(function (error) {
+                alert('Ocurrió un error:', error);
+                console.error('Ocurrió un error:', error);
+            });
+    } catch (error) {
+        console.error('Error en inicio2:', error);
     }
-    // Convierte la respuesta a formato JSON
-    return response.json();
-  })
-  .then(function(data) {
-    // Los datos del archivo JSON están disponibles en la variable 'data'
-    jsonData = data;
-    getTags();
-    fadeInAndShow('tag-filter');   
-    // Puedes trabajar con los datos aquí, por ejemplo, mostrarlos en una página web
-    // o procesarlos de alguna manera.
-  })
-  .catch(function(error) {
-    // Maneja cualquier error que ocurra durante la solicitud
-    alert('Ocurrió un error:', error);
-    console.error('Ocurrió un error:', error);
-  });
-
 }
+
+inicio2();
 
 
 
@@ -217,7 +215,7 @@ function preCargarLiquidaciones(){
     
     timelineContainer.innerHTML = '';
     fadeInAndShow('liquidaciones-container');
-    
-
+    document.getElementById('registers').textContent = 'Nº Registros: ' + `${numeroAnios}`;
   }, 800);
 }
+
