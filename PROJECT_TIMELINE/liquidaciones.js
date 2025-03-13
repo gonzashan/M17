@@ -1,6 +1,6 @@
 async function cargarLiquidaciones() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/gonzashan/M17/aa677a63d691cd07a3fb686118c16a3d7eb22a6d/PROJECT_TIMELINE/liquidaciones_x_vecino.json');
+        const response = await fetch('liquidaciones_x_vecino.json');
         const liquidaciones = await response.json();
         const container = document.getElementById('liquidaciones-container');
         container.innerHTML = '';
@@ -93,6 +93,7 @@ async function cargarLiquidaciones() {
             anioDiv.appendChild(table);
             container.appendChild(anioDiv);
         }
+        console.log(`Número de años: ${numeroAnios}`);
         return numeroAnios; // Devuelve una promesa resuelta
     } catch (error) {
         console.error('Error al cargar las liquidaciones:', error);
