@@ -1,8 +1,9 @@
 async function cargarLiquidaciones() {
     try {
-        const response = await fetch('liquidaciones_x_vecino.json');
+        const response = await fetch('https://raw.githubusercontent.com/gonzashan/M17/aa677a63d691cd07a3fb686118c16a3d7eb22a6d/PROJECT_TIMELINE/liquidaciones_x_vecino.json');
         const liquidaciones = await response.json();
         const container = document.getElementById('liquidaciones-container');
+        
         container.innerHTML = '';
         for (const anio in liquidaciones) {
             numeroAnios ++;
@@ -18,7 +19,22 @@ async function cargarLiquidaciones() {
             const table = document.createElement('table');
             table.className = 'fl-table';
             const anioHeader = document.createElement('thead');
-            anioHeader.innerHTML = `<tr><td style="font-size: 14px;">Liquidaciones ${anio}</td><th style="background: #FFF;"><a href="${url}" target="_blank" style="font-size: 16px;font-weight: 400;"> 📄.pdf</a></th></tr>`;
+
+            
+            let folderFiles = url.substring(0, url.lastIndexOf('/') + 1);
+            let liquidacionOrdinaria = folderFiles + 'liquidacion_ordinaria_' + anio + '.pdf';
+
+            console.log(liquidacionOrdinaria);
+            anioHeader.innerHTML = 
+            `<tr>
+                <td style="font-size: 14px;">Liquidaciones ${anio}</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="${url}" target="_blank" style="font-size: 11px;font-weight: 400;"> 📄${obtenerNombreArchivo(url)}</a>
+                    <a href="${liquidacionOrdinaria}" target="_blank" style="font-size: 11px;font-weight: 400;padding-left: 72px;"> 📄${obtenerNombreArchivo(liquidacionOrdinaria)}</a>
+                </td>
+            </tr>`;
             table.appendChild(anioHeader);
             const thead = document.createElement('thead');
             let theadHTML = '<tr>';
@@ -100,3 +116,19 @@ async function cargarLiquidaciones() {
         container.textContent = 'Error al cargar las liquidaciones.';
     }
 }
+
+function obtenerNombreArchivo(url) {
+  // Encuentra la posición del último '/' en la URL
+  const indiceUltimaBarra = url.lastIndexOf('/');
+
+  // Si no se encuentra '/', significa que no hay una ruta de directorio en la URL
+  if (indiceUltimaBarra === -1) {
+    return url; // Devuelve la URL completa, ya que es solo el nombre del archivo
+  }
+
+  // Extrae el nombre del archivo usando substring
+  const nombreArchivo = url.substring(indiceUltimaBarra + 1);
+
+  return nombreArchivo;
+}
+
