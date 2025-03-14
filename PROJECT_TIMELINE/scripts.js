@@ -107,6 +107,7 @@ function timeLineLoad(timelineData){
 
   timelineContainer.appendChild(li);
   });
+  toggleRadioButtons();
 }
 
 
@@ -217,5 +218,33 @@ function preCargarLiquidaciones(){
     fadeInAndShow('liquidaciones-container');
     document.getElementById('registers').textContent = 'Nº Registros: ' + `${numeroAnios}`;
   }, 800);
+}
+
+
+function toggleRadioButtons() {
+  const labels = document.querySelectorAll('label');
+  const clickCounts = {};
+
+  labels.forEach(label => {
+    const forValue = label.getAttribute('for');
+    clickCounts[forValue] = 0;
+
+    label.addEventListener('click', () => {
+      clickCounts[forValue]++;
+
+      if (clickCounts[forValue] === 2) {
+        // Desmarca todos los radio buttons después de 1 segundo
+        setTimeout(() => {
+          labels.forEach(otherLabel => {
+            const otherRadioButton = document.getElementById(otherLabel.getAttribute('for'));
+            if (otherRadioButton) {
+              otherRadioButton.checked = false;
+            }
+          });
+        }, 50); // 1000 milisegundos = 1 segundo
+        clickCounts[forValue] = 0; // Reinicia el contador
+      }
+    });
+  });
 }
 
