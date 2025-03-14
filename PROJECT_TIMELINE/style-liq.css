@@ -64,6 +64,7 @@
     .fl-table thead th {
       color: #ffffff;
       background: #4FC3A1;
+      border: 1px #4a4f9773 solid;
     }
 
   
@@ -165,6 +166,7 @@
     .fl-table thead th.custom-header {
       color: #ffffff;
       background: #324960;
+          
     }
 
     .fl-table thead th {
@@ -173,6 +175,7 @@
       white-space: normal;
       word-wrap: break-word;
       height: 40px;
+      font-weight: 400;
     }
 
     /* Estilos para los <td> dentro del colapso */
