@@ -149,7 +149,7 @@
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24210",
           "url": "../FACT-INDUSTRIALES/2024/FAC24210.pdf",
-          "alerta": ""
+          "alerta": "❗"
         },
         {
           "descripcion": "Obres comunitat Desmontaje y montaje grabador y monitor CCTV",
@@ -176,7 +176,7 @@
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24261",
           "url": "../FACT-INDUSTRIALES/2024/FAC24261.pdf",
-          "alerta": ""
+          "alerta": "❗"
         },
         {
           "descripcion": "Obres comunitat Neteja de teulada de façana posterior Subministrament i aplicació de pintura a parets de armari de vigilancia.",
@@ -194,7 +194,7 @@
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "ABV00715",
           "url": "../FACT-INDUSTRIALES/2024/ABV00715.pdf",
-          "alerta": ""
+          "alerta": "❗"
         },
         {
           "descripcion": "Taxes EXP. 205560475475",
@@ -308,7 +308,7 @@
           "empresa": "",
           "numero_documento": "",
           "url": "",
-          "alerta": ""
+          "alerta": "❗"
         },
         {
           "descripcion": "Telegrama burofax Banco Bilbao Vizscaya 4º 3ª (Inici Reclamació Judicial morositat)",
@@ -425,7 +425,7 @@
           "empresa": "PREVENFINCA SL",
           "numero_documento": "240338",
           "url": "../FACT-INDUSTRIALES/2024/240338.pdf",
-          "alerta": ""
+          "alerta": "❗"
         }
       ],
       "Totales": "-145.20"
@@ -631,7 +631,7 @@
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24020",
           "url": "../FACT-INDUSTRIALES/2024/FAC24020.pdf",
-          "alerta": ""
+          "alerta": "❗"
         },
         {
           "descripcion": "Neteja escala Febrer",
@@ -910,7 +910,7 @@
           "empresa": "SERRALLERIA RAURICH",
           "numero_documento": "240338",
           "url": "../FACT-INDUSTRIALES/2024/240338.pdf",
-          "alerta": ""
+          "alerta": "❗"
         },
         {
           "descripcion": "Duplicat de claus de seguretat",
@@ -991,7 +991,7 @@
           "empresa": "KOLBEGAS SERVEIS SL",
           "numero_documento": "24-0073",
           "url": "../FACT-INDUSTRIALES/2024/24-0073.pdf",
-          "alerta": ""
+          "alerta": "❗"
         }
       ],
       "Totales": "-1604.07"
