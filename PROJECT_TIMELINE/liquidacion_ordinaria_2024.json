@@ -1,0 +1,1000 @@
+{
+  "titulo": "LIQUIDACIÓ ORDINARIA DES DEL 01/01/2024 FINS EL 31/12/2024",
+  "Partes todos iguales": [
+    {
+      "cod": "1",
+      "transacciones": [
+        {
+          "descripcion": "Asseguranca multirisc 01/12/2024 A 01/12/2025",
+          "importe": "-4348.71",
+          "fecha": "04/12/2024",
+          "empresa": "SEGUROS",
+          "numero_documento": "50634",
+          "url": "../FACT-INDUSTRIALES/2024/50634.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Abonament asseguranca Siniestro 76220558",
+          "importe": "88.33",
+          "fecha": "18/07/2024",
+          "empresa": "SEGUROS",
+          "numero_documento": "ABONO-48564",
+          "url": "../FACT-INDUSTRIALES/2024/50634.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-4260.38"
+    },
+    {
+      "cod": "2",
+      "transacciones": [
+        {
+          "descripcion": "Arquitecte  Despeses col.legials: Visat Documentació Tecnica.",
+          "importe": "-69.51",
+          "fecha": "28/06/2024",
+          "empresa": "SERGIO LOPEZ BAREA",
+          "numero_documento": "2024081",
+          "url": "../FACT-INDUSTRIALES/2024/2024081.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Arquitecte Tramit d 'urgencia / Instal.lació mesures cautelars per assistencia bombers.",
+          "importe": "-689",
+          "fecha": "28/06/2024",
+          "empresa": "SERGIO LOPEZ BAREA",
+          "numero_documento": "2024107",
+          "url": "../FACT-INDUSTRIALES/2024/2024107.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Arquitecte  Seguiment Exp Sancionador AUT03202400371 :Instancia conforme esta en execució.",
+          "importe": "-127.21",
+          "fecha": "31/07/2024",
+          "empresa": "SERGIO LOPEZ BAREA",
+          "numero_documento": "2024118",
+          "url": "../FACT-INDUSTRIALES/2024/2024118.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Arquitecte  Seguiment Exp Sancionador AUT03202400371:Instancia informa ja  executat feines + Asumeix",
+          "importe": "-127.2",
+          "fecha": "31/07/2024",
+          "empresa": "SERGIO LOPEZ BAREA",
+          "numero_documento": "2024101",
+          "url": "../FACT-INDUSTRIALES/2024/2024101.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-1012.92"
+    },
+    {
+      "cod": "3",
+      "transacciones": [
+        {
+          "descripcion": "Obres comunitat Canvi clau pas d 'aigua 3º 4º (bateria d 'aigües)",
+          "importe": "-835.54",
+          "fecha": "08/02/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24027",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24027.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Canvi clau pas d´aigua 1º 9ª (bateria d 'aigües), i canvi tram muntant d´aigua per filtracions a botiga 4",
+          "importe": "-459.95",
+          "fecha": "08/02/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24026",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24026.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Localització fuita d 'aigua (afecta a consergería i er 3ª) és privatiu del 1° 4ª (144€) + reajust porta accés finca (38€)",
+          "importe": "-182",
+          "fecha": "08/02/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "ABV00631",
+          "url": "../FACT-INDUSTRIALES/2024/ABV00631.pdf",
+          "alerta": "❗"
+        },
+        {
+          "descripcion": "Obres comunitat Neteja Túnels deis sótans de la Comunitat",
+          "importe": "-806",
+          "fecha": "24/01/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "ABV00625",
+          "url": "../FACT-INDUSTRIALES/2024/ABV00625.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Abono por 1º 4ª: Parte correspondiente fra SIGNUS CLAS por localización de fuga PRIVATIVA.",
+          "importe": "144",
+          "fecha": "#N/A",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Col.locació xarxes de protecció en façana posterior (ppto 100) - Acceptació pressupost",
+          "importe": "-1161.05",
+          "fecha": "13/05/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24138",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24138.pdf",
+          "alerta": "❗"
+        },
+        {
+          "descripcion": "Obres comunitat Col.locació xarxes de protecció en façana posterior (ppto 107) -Inici feines",
+          "importe": "-1919.69",
+          "fecha": "20/06/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24178",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24178.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Col.locació xarxes de protecció en façana posterior (ppto 107) - Finalització feines.",
+          "importe": "-3312.94",
+          "fecha": "06/07/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24189",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24189.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Reparacions estanteries fusta zona video vigilancia + rejilla (Reclamado indemnizacion al seguro según siniestro 76220558)",
+          "importe": "-300.39",
+          "fecha": "25/07/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24210",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24210.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Desmontaje y montaje grabador y monitor CCTV",
+          "importe": "-88.33",
+          "fecha": "19/06/2024",
+          "empresa": "BLANCO CARRASCAL S.L",
+          "numero_documento": "24-239",
+          "url": "../FACT-INDUSTRIALES/2024/24-239 .pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Retirada material diferents balcons (escupidors en mal estat)",
+          "importe": "-1689.6",
+          "fecha": "13/09/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24239",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24239.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat 50% Pressupost 68- Porta d'accés subterrani",
+          "importe": "-603.9",
+          "fecha": "17/10/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24261",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24261.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Neteja de teulada de façana posterior Subministrament i aplicació de pintura a parets de armari de vigilancia.",
+          "importe": "-450.85",
+          "fecha": "01/10/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "ABV00688",
+          "url": "../FACT-INDUSTRIALES/2024/ABV00688.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Obres comunitat Subministrament y col-locacio de bombí porta bateria d'aigua/ Arranjament mitjançant plaques de teulada façana posterior.",
+          "importe": "-922.18",
+          "fecha": "14/11/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "ABV00715",
+          "url": "../FACT-INDUSTRIALES/2024/ABV00715.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Taxes EXP. 205560475475",
+          "importe": "-300",
+          "fecha": "29/10/2024",
+          "empresa": "VARIOS",
+          "numero_documento": "SANCIO-AJUNTAMENT",
+          "url": "../FACT-INDUSTRIALES/2024/SANCIO-AJUNTAMENT.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-12888.42"
+    },
+    {
+      "cod": "4",
+      "transacciones": [
+        {
+          "descripcion": "Honoraris administració 1er trimestre",
+          "importe": "-1392",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Honoraris administració 2on trimestre",
+          "importe": "-1392",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Honoraris administració 3er trimestre",
+          "importe": "-1392",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Honoraris administració 4rt trimestre",
+          "importe": "-1392",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "IVA Honoraris 1er trimestre 2024",
+          "importe": "-292.32",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "IVA Honoraris 2nd trimestre 2024",
+          "importe": "-292.32",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "IVA Honoraris 3rt trimestre 2024",
+          "importe": "-292.32",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "IVA Honoraris 4rt Honoraris trimestre 2024",
+          "importe": "-292.32",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llei de protecció de dades Exercici 2024 Impresos i bestretes Exercici 2024",
+          "importe": "-96.8",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Impresos i bestretes Exercici 2024",
+          "importe": "-111",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Certificat digital Exercici 2024",
+          "importe": "-145.2",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Telegrama burofax Banco Bilbao Vizscaya 4º 3ª (Inici Reclamació Judicial morositat)",
+          "importe": "-44.6",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Telegrama burofax MontserratIglesias Escude 5° 3ª (Inici Reclamació Judicial morositat)",
+          "importe": "-44.6",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-7179.48"
+    },
+    {
+      "cod": "5",
+      "transacciones": [
+        {
+          "descripcion": "Tramits Hisenda IVA Prestació Modelo 347",
+          "importe": "-100",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Tramits Hisenda IVA Honorarios Prestación Modelo 347",
+          "importe": "-21",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Tramits Hisenda Presentación Modelo 111",
+          "importe": "-100",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Tramits Hisenda IVA Honorarios Prestación Modelo 111",
+          "importe": "-21",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Tramits Hisenda Pago a hacienda IRPF 2024",
+          "importe": "-133.5",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-375.50"
+    },
+    {
+      "cod": "6",
+      "transacciones": [
+        {
+          "descripcion": "Rebut comunitat 1er i 2on trimestre 2024",
+          "importe": "-776",
+          "fecha": "12/06/2024",
+          "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
+          "numero_documento": "48159",
+          "url": "../FACT-INDUSTRIALES/2024/48159-MANCOM_REBUT_1_2-TRIMESTRE.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Rebut comunitat 3º TRIMESTRE 2024",
+          "importe": "-388",
+          "fecha": "12/07/2024",
+          "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
+          "numero_documento": "48586",
+          "url": "../FACT-INDUSTRIALES/2024/48586-MANCOM_REBUT_3-TRIMESTRE.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Rebut comunitat 4t tRIMESTRE",
+          "importe": "-388",
+          "fecha": "01/10/2024",
+          "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
+          "numero_documento": "48586",
+          "url": "../FACT-INDUSTRIALES/2024/48586-MANCOM_REBUT_3-TRIMESTRE.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-1552.00"
+    },
+    {
+      "cod": "7",
+      "transacciones": [
+        {
+          "descripcion": "Despeses gestoria Riscos laborals 2024.",
+          "importe": "-145.2",
+          "fecha": "24/04/2024",
+          "empresa": "PREVENFINCA SL",
+          "numero_documento": "240338",
+          "url": "../FACT-INDUSTRIALES/2024/240338.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-145.20"
+    },
+    {
+      "cod": "99",
+      "transacciones": [
+        {
+          "descripcion": "Factures error",
+          "importe": "-18",
+          "fecha": "",
+          "empresa": "",
+          "numero_documento": "",
+          "url": "",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-18.00"
+    }
+  ],
+  "Partes iguales menos locales": [
+    {
+      "cod": "8",
+      "transacciones": [
+        {
+          "descripcion": "Llum escala",
+          "importe": "-220.39",
+          "fecha": "06/02/2024",
+          "empresa": "AUDAX",
+          "numero_documento": "240033403",
+          "url": "../FACT-INDUSTRIALES/2024/240033403.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-174.45",
+          "fecha": "07/03/2024",
+          "empresa": "AUDAX",
+          "numero_documento": "240060688",
+          "url": "../FACT-INDUSTRIALES/2024/240060688.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-169.11",
+          "fecha": "05/04/2024",
+          "empresa": "AUDAX",
+          "numero_documento": "240087354",
+          "url": "../FACT-INDUSTRIALES/2024/240087354.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-160",
+          "fecha": "07/05/2024",
+          "empresa": "AUDAX",
+          "numero_documento": "240112857",
+          "url": "../FACT-INDUSTRIALES/2024/240112857.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-170.61",
+          "fecha": "07/06/2024",
+          "empresa": "AUDAX",
+          "numero_documento": "240139918",
+          "url": "../FACT-INDUSTRIALES/2024/240139918.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-186.35",
+          "fecha": "04/07/2024",
+          "empresa": "AUDAX",
+          "numero_documento": "240164839",
+          "url": "../FACT-INDUSTRIALES/2024/240164839.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-199.53",
+          "fecha": "06/08/2024",
+          "empresa": "AUDAX",
+          "numero_documento": "240190907",
+          "url": "../FACT-INDUSTRIALES/2024/240190907.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-143.34",
+          "fecha": "27/08/2024",
+          "empresa": "AUDAX",
+          "numero_documento": "240206896",
+          "url": "../FACT-INDUSTRIALES/2024/240206896.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-231.96",
+          "fecha": "13/10/2024",
+          "empresa": "VISALIA",
+          "numero_documento": "SVGS240139252",
+          "url": "../FACT-INDUSTRIALES/2024/SVGS240139252.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-187.96",
+          "fecha": "08/11/2024",
+          "empresa": "VISALIA",
+          "numero_documento": "SVGS240157872",
+          "url": "../FACT-INDUSTRIALES/2024/SVGS240157872.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Llum escala",
+          "importe": "-189.5",
+          "fecha": "10/12/2024",
+          "empresa": "VISALIA",
+          "numero_documento": "SVGS240179733",
+          "url": "../FACT-INDUSTRIALES/2024/SVGS240179733.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-2033.20"
+    },
+    {
+      "cod": "9",
+      "transacciones": [
+        {
+          "descripcion": "Aigua escala",
+          "importe": "-119.27",
+          "fecha": "06/03/2024",
+          "empresa": "AIGÜES DE BARCELONA",
+          "numero_documento": "20242600305",
+          "url": "../FACT-INDUSTRIALES/2024/20242600305.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Aigua escala",
+          "importe": "-139.47",
+          "fecha": "07/05/2024",
+          "empresa": "AIGÜES DE BARCELONA",
+          "numero_documento": "20243105838",
+          "url": "../FACT-INDUSTRIALES/2024/20243105838.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Aigua escala",
+          "importe": "-131.19",
+          "fecha": "05/07/2024",
+          "empresa": "AIGÜES DE BARCELONA",
+          "numero_documento": "20244606204",
+          "url": "../FACT-INDUSTRIALES/2024/20244606204.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Aigua escala",
+          "importe": "-118.7",
+          "fecha": "05/09/2024",
+          "empresa": "AIGÜES DE BARCELONA",
+          "numero_documento": "20246084484",
+          "url": "../FACT-INDUSTRIALES/2024/20246084484.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Aigua escala",
+          "importe": "-120.24",
+          "fecha": "07/11/2024",
+          "empresa": "AIGÜES DE BARCELONA",
+          "numero_documento": "20247583280",
+          "url": "../FACT-INDUSTRIALES/2024/20247583280.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Musa 2024",
+          "importe": "-21.04",
+          "fecha": "30/10/2024",
+          "empresa": "AIGÜES DE BARCELONA",
+          "numero_documento": "MUSA-50002",
+          "url": "../FACT-INDUSTRIALES/2024/MUSA-50002.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-649.91"
+    },
+    {
+      "cod": "10",
+      "transacciones": [
+        {
+          "descripcion": "Neteja escala Gener",
+          "importe": "-804.96",
+          "fecha": "01/10/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Neteja patis (treballs verticals).",
+          "importe": "-825",
+          "fecha": "08/02/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24020",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24020.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Febrer",
+          "importe": "-804.96",
+          "fecha": "01/01/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Març",
+          "importe": "-804.96",
+          "fecha": "01/02/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Abril",
+          "importe": "-804.96",
+          "fecha": "01/03/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Maig",
+          "importe": "-804.96",
+          "fecha": "01/04/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Juny",
+          "importe": "-804.96",
+          "fecha": "01/05/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Juliol",
+          "importe": "-804.96",
+          "fecha": "01/06/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Agost",
+          "importe": "-804.96",
+          "fecha": "01/07/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Septembre",
+          "importe": "-804.96",
+          "fecha": "01/08/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Octubre",
+          "importe": "-804.96",
+          "fecha": "01/09/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Neteja escala Novembre",
+          "importe": "-804.96",
+          "fecha": "01/11/2024",
+          "empresa": "LIMPIEZA MOLITER SCP",
+          "numero_documento": "63539",
+          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-9679.56"
+    },
+    {
+      "cod": "11",
+      "transacciones": [
+        {
+          "descripcion": "Manteniment ascensor 1er trimestre",
+          "importe": "-1291.08",
+          "fecha": "01/01/2024",
+          "empresa": "OTIS MOVILITY",
+          "numero_documento": "1K52988M",
+          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Manteniment ascensor 2on trimestre",
+          "importe": "-1291.08",
+          "fecha": "01/04/2024",
+          "empresa": "OTIS MOVILITY",
+          "numero_documento": "1K52988M",
+          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Manteniment ascensor 3er trimestre",
+          "importe": "-1291.08",
+          "fecha": "09/07/2024",
+          "empresa": "OTIS MOVILITY",
+          "numero_documento": "1K52988M",
+          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Manteniment ascensor 4t trimestre",
+          "importe": "-1291.08",
+          "fecha": "01/10/2024",
+          "empresa": "OTIS MOVILITY",
+          "numero_documento": "1K52988M",
+          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Reparació Ascensor Substitució enllumenat de cabina.",
+          "importe": "-132.63",
+          "fecha": "19/02/2024",
+          "empresa": "OTIS MOVILITY",
+          "numero_documento": "3269449A",
+          "url": "../FACT-INDUSTRIALES/2024/3269449A.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Reparació Ascensor Substitució enllumenat de cabina.",
+          "importe": "-140.54",
+          "fecha": "24/10/2024",
+          "empresa": "OTIS MOVILITY",
+          "numero_documento": "3333458A",
+          "url": "../FACT-INDUSTRIALES/2024/3333458A.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Inspecció Ascensor Aplicació  Reial Decret 355/2024",
+          "importe": "-160.48",
+          "fecha": "03/10/2024",
+          "empresa": "OTIS MOVILITY",
+          "numero_documento": "1L48519M",
+          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Inspecció Ascensor Aplicació  Reial Decret 355/2024",
+          "importe": "-160.48",
+          "fecha": "03/10/2024",
+          "empresa": "OTIS MOVILITY",
+          "numero_documento": "1L48519M",
+          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-5758.45"
+    },
+    {
+      "cod": "12",
+      "transacciones": [
+        {
+          "descripcion": "Manteniment interfon Manteniment de 6-2024 a 5-2025",
+          "importe": "-432.49",
+          "fecha": "01/06/2024",
+          "empresa": "PLANA FABREGA SERVEI TECNIC SL",
+          "numero_documento": "FSBST2405151",
+          "url": "../FACT-INDUSTRIALES/2024/FSBST2405151.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Manteniment interfonInstal·lació porter visor 2024",
+          "importe": "-5678.41",
+          "fecha": "12/11/2024",
+          "empresa": "PLANA FABREGA SERVEI TECNIC SL",
+          "numero_documento": "FPBST2406667",
+          "url": "../FACT-INDUSTRIALES/2024/FPBST2406667.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-6110.90"
+    },
+    {
+      "cod": "13",
+      "transacciones": [
+        {
+          "descripcion": "Manteniment antena de 6-2024 a 5-2025",
+          "importe": "-590.65",
+          "fecha": "01/06/2024",
+          "empresa": "PLANA FABREGA SERVEI TECNIC SL",
+          "numero_documento": "FSBST2405150",
+          "url": "../FACT-INDUSTRIALES/2024/FSBST2405150.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-590.65"
+    },
+    {
+      "cod": "14",
+      "transacciones": [
+        {
+          "descripcion": "Manteniment extintors Anual 2024",
+          "importe": "-215.48",
+          "fecha": "30/20/2024",
+          "empresa": "SEMAPRIM S.L.",
+          "numero_documento": "24026177",
+          "url": "../FACT-INDUSTRIALES/2024/24026177.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-215.48"
+    },
+    {
+      "cod": "15",
+      "transacciones": [
+        {
+          "descripcion": "Factura electriciste Manteniment il.luminació (canvi bombetes).",
+          "importe": "-92.9",
+          "fecha": "30/01/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "ABV00626",
+          "url": "../FACT-INDUSTRIALES/2024/ABV00626.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Factura electriciste MantenimentIl.luminació (Canvi plafons led rodons i cablejat).",
+          "importe": "-415.6",
+          "fecha": "01/04/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24080",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24080.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Factura electriciste MantenimentIl.luminació (Canvi de plafons led).",
+          "importe": "-120.52",
+          "fecha": "16/10/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "ABV00698",
+          "url": "../FACT-INDUSTRIALES/2024/ABV00698.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Factura electriciste MantenimentIl.luminació (Polsador llum + marc, bombetes LEO)",
+          "importe": "-114.57",
+          "fecha": "26/11/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "ABV00719",
+          "url": "../FACT-INDUSTRIALES/2024/ABV00719.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-743.59"
+    },
+    {
+      "cod": "16",
+      "transacciones": [
+        {
+          "descripcion": "Factura serraller Reparació i ajust porta quart comptadors gas Factura serraller",
+          "importe": "-145.2",
+          "fecha": "28/08/2024",
+          "empresa": "SERRALLERIA RAURICH",
+          "numero_documento": "240338",
+          "url": "../FACT-INDUSTRIALES/2024/240338.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Duplicat de claus de seguretat",
+          "importe": "-25",
+          "fecha": "18/10/2024",
+          "empresa": "A.A ABASAT S.L.U",
+          "numero_documento": "ABSAT-25€",
+          "url": "../FACT-INDUSTRIALES/2024/SVGS240139252.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-170.20"
+    },
+    {
+      "cod": "17",
+      "transacciones": [
+        {
+          "descripcion": "Factura Lampista Buidatge de cambra de neteja Recollida de runa. Neteja",
+          "importe": "-711.7",
+          "fecha": "05/11/2024",
+          "empresa": "SIGNUS CLAS SL",
+          "numero_documento": "FAC24269",
+          "url": "../FACT-INDUSTRIALES/2024/FAC24269.pdf",
+          "alerta": "❗"
+        },
+        {
+          "descripcion": "Factura Lampista Cargols, femelles volanderes i pestell (BAUHAUS)",
+          "importe": "-40.92",
+          "fecha": "09/12/2024",
+          "empresa": "VARIOS",
+          "numero_documento": "678652",
+          "url": "../FACT-INDUSTRIALES/2024/bahuhaus.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Factura Lampista Cargols, femelles volanderes i pestell (2º COMPRA)",
+          "importe": "-32.68",
+          "fecha": "12/12/2024",
+          "empresa": "VARIOS",
+          "numero_documento": "VEÏNS-1",
+          "url": "../FACT-INDUSTRIALES/2024/GASTO-VECINOS-1.pdf",
+          "alerta": ""
+        },
+        {
+          "descripcion": "Factura Lampista Despeses diversos material BAUHAUS (Clau Alien, polsador de llum, multiús, il·luminació)",
+          "importe": "-72.83",
+          "fecha": "12/12/2024",
+          "empresa": "VARIOS",
+          "numero_documento": "VEÏN-2",
+          "url": "../FACT-INDUSTRIALES/2024/GASTO-VECINOS-2.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-858.13"
+    },
+    {
+      "cod": "18",
+      "transacciones": [
+        {
+          "descripcion": "Desinfeccions  Manteniment anual plagues",
+          "importe": "-431.97",
+          "fecha": "15/07/2024",
+          "empresa": "ROTABE CONTROL",
+          "numero_documento": "24/0307",
+          "url": "../FACT-INDUSTRIALES/2024/24:0307.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-431.97"
+    },
+    {
+      "cod": "99",
+      "transacciones": [
+        {
+          "descripcion": "Obres comunitat Taxa cía gas per actuació escomesa de cía. gas segons pressupost 0118-240332 KOLBEGAS",
+          "importe": "-1604.07",
+          "fecha": "08/04/2024",
+          "empresa": "KOLBEGAS SERVEIS SL",
+          "numero_documento": "24-0073",
+          "url": "../FACT-INDUSTRIALES/2024/24-0073.pdf",
+          "alerta": ""
+        }
+      ],
+      "Totales": "-1604.07"
+    }
+  ]
+}
