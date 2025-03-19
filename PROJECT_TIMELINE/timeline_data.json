@@ -1,5 +1,19 @@
 [
   {
+    "date": "1 Dic 2010",
+    "title": "Todas las actas",
+    "president": "-",
+    "content": [
+      {
+        "id": 0,
+        "text": "Contiene todas las actas desde 2010."
+      }
+    ],
+    "tags": "actas",
+    "link": "https://raw.githubusercontent.com/gonzashan/actas/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2010/2010_9_diciembre-apertura-libro-actas.pdf",
+    "id": "work1"
+  },
+  {
     "date": "9 Dic 2010",
     "title": "Apertura de libro",
     "president": "No sé conoce",
@@ -11,12 +25,12 @@
     ],
     "tags": "actas",
     "link": "https://raw.githubusercontent.com/gonzashan/actas/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2010/2010_9_diciembre-apertura-libro-actas.pdf",
-    "id": "work1"
+    "id": "work2"
   },
   {
     "date": "15 Dic 2010",
     "title": "Junta General Extraordinaria",
-    "president": "No sé conoce",
+    "president": "Josefina Gutiérrez Alonso, 3o6a",
     "content": [
       {
         "id": 0,
@@ -29,12 +43,12 @@
     ],
     "tags": "actas, cuenta bancaria",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/0f6fef7cba75ba9452dd41d707a8ec231ed2732c/ACTAS/2010/2010_15_diciembre-acta-extraordinaria.pdf",
-    "id": "work2"
+    "id": "work3"
   },
   {
     "date": "6 Abr 2011",
     "title": "Junta General Extraordinaria",
-    "president": "No sé conoce",
+    "president": "Josefina Gutiérrez Alonso, 3o6a",
     "content": [
       {
         "id": 0,
@@ -43,12 +57,12 @@
     ],
     "tags": "actas",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2011/2011_6_abril-acta-extraordinaria.pdf",
-    "id": "work3"
+    "id": "work4"
   },
   {
     "date": "1 Jun 2011",
     "title": "Junta General Extraordinaria",
-    "president": "No sé conoce",
+    "president": "Josefina Gutiérrez Alonso, 3o6a",
     "content": [
       {
         "id": 0,
@@ -57,12 +71,12 @@
     ],
     "tags": "actas",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2011/2011_1_junio-acta-extraordinaria.pdf",
-    "id": "work4"
+    "id": "work5"
   },
   {
     "date": "1 Dic 2011",
     "title": "Junta General Ordinaria",
-    "president": "Mercedes Fráile Pérez",
+    "president": "Mercedes Fráile Pérez, 3o7a",
     "content": [
       {
         "id": 0,
@@ -71,12 +85,12 @@
     ],
     "tags": "actas",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2011/2011_1_diciembre-acta-ordinaria.pdf",
-    "id": "work5"
+    "id": "work6"
   },
   {
     "date": "25 Abr 2012",
     "title": "Junta General Extraordinaria",
-    "president": "Mercedes Fráile Pérez",
+    "president": "Mercedes Fráile Pérez, 3o7a",
     "content": [
       {
         "id": 5,
@@ -97,12 +111,12 @@
     ],
     "tags": "actas, cuenta bancaria, mancomunidad, parking",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/ea23e2789a7cf242668319403dce2169a69a1d11/ACTAS/2012/2012_25_abril-acta-extraordinaria.pdf",
-    "id": "work6"
+    "id": "work7"
   },
   {
     "date": "20 Dic 2012",
     "title": "Junta General Extraordinaria",
-    "president": "Mercedes Fráile Pérez",
+    "president": "Mercedes Fráile Pérez, 3o7a",
     "content": [
       {
         "id": 1,
@@ -111,12 +125,12 @@
     ],
     "tags": "actas, cerramiento",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2012/2012_20_diciembre-acta-extraordinaria.pdf",
-    "id": "work7"
+    "id": "work8"
   },
   {
     "date": "25 Feb 2013",
     "title": "Junta General Extraordinaria",
-    "president": "Mercedes Fráile Pérez",
+    "president": "Mercedes Fráile Pérez, 3o7a",
     "content": [
       {
         "id": 0,
@@ -125,7 +139,7 @@
     ],
     "tags": "actas",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2013/2013_25_febrero-acta-extraordinaria.pdf",
-    "id": "work8"
+    "id": "work9"
   },
   {
     "date": "29 Abr 2013",
@@ -143,7 +157,7 @@
     ],
     "tags": "actas, portería, parking",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2013/2013_29_abril-acta-ordinaria.pdf",
-    "id": "work9"
+    "id": "work10"
   },
   {
     "date": "13 Jun 2013",
@@ -161,7 +175,7 @@
     ],
     "tags": "actas, mancomunidad",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2013/2013_13_junio-acta-extraordinaria.pdf",
-    "id": "work10"
+    "id": "work11"
   },
   {
     "date": "15 Jul 2013",
@@ -175,7 +189,7 @@
     ],
     "tags": "actas",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2013/2013_15_julio-acta-extraordinaria.pdf",
-    "id": "work11"
+    "id": "work12"
   },
   {
     "date": "21 Ene 2014",
@@ -189,7 +203,7 @@
     ],
     "tags": "actas, mancomunidad",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2014/2014_21_enero-acta-extraordinaria.pdf",
-    "id": "work12"
+    "id": "work13"
   },
   {
     "date": "8 Abr 2014",
@@ -203,7 +217,7 @@
     ],
     "tags": "actas, cerramiento",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2014/2014_8_abril-acta-extraordinaria.pdf",
-    "id": "work13"
+    "id": "work14"
   },
   {
     "date": "16 May 2014",
@@ -233,7 +247,7 @@
     ],
     "tags": "actas, importante, parking, portería, cerramiento",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2014/2014_16_mayo-acta-ordinaria.pdf",
-    "id": "work14"
+    "id": "work15"
   },
   {
     "date": "30 Abr 2015",
@@ -251,7 +265,7 @@
     ],
     "tags": "actas, parking, portería, importante",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2015/2015_30_abril-acta-ordinaria.pdf",
-    "id": "work15"
+    "id": "work16"
   },
   {
     "date": "17 Jun 2015",
@@ -269,7 +283,7 @@
     ],
     "tags": "actas, mancomunidad",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2015/2015_17_junio-acta-extraordinaria.pdf",
-    "id": "work16"
+    "id": "work17"
   },
   {
     "date": "3 Nov 2015",
@@ -283,7 +297,7 @@
     ],
     "tags": "actas, mancomunidad",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2015/2015_3_noviembre-acta-extraordinaria.pdf",
-    "id": "work17"
+    "id": "work18"
   },
   {
     "date": "2 Feb 2016",
@@ -297,12 +311,12 @@
     ],
     "tags": "actas, importante, portería",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2016/2016_2_febrero-acta-extraordinaria.pdf",
-    "id": "work18"
+    "id": "work19"
   },
   {
     "date": "22 Sep 2016",
     "title": "Junta General Ordinaria",
-    "president": "Ángel  Pulido Albero 4º2a",
+    "president": "Ángel  Pulido Albero, 4º2a",
     "content": [
       {
         "id": 7,
@@ -319,12 +333,12 @@
     ],
     "tags": "actas, portería, importante, parking",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2016/2016_22_septiembre-acta-ordinaria.pdf",
-    "id": "work19"
+    "id": "work20"
   },
   {
     "date": "12 Dic 2016",
     "title": "Junta General Extraordinaria",
-    "president": "Ángel  Pulido Albero 4º2a",
+    "president": "Ángel  Pulido Albero, 4º2a",
     "content": [
       {
         "id": 7,
@@ -332,13 +346,13 @@
       }
     ],
     "tags": "actas, importante, portería",
-    "link": "https://raw.githubusercontent.com/gonzashan/M17/a4b4c11698d0b20e7491301a19bd247c94d99ae9/ACTAS/2016/2016_12_diciembre-acta-extraordinaria.pdf",
-    "id": "work20"
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/ea23e2789a7cf242668319403dce2169a69a1d11/ACTAS/2016/2016_12_diciembre-acta-extraordinaria.pdf",
+    "id": "work21"
   },
   {
     "date": "1 Mar 2017",
     "title": "1as Arras peniteciales",
-    "president": "Ángel  Pulido Albero 4º2a",
+    "president": "Ángel  Pulido Albero, 4º2a",
     "content": [
       {
         "id": 9,
@@ -347,7 +361,7 @@
     ],
     "tags": "portería, portería-venta",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/VENTA/2017_03_01-arras-penitenciales.pdf",
-    "id": "work21"
+    "id": "work22"
   },
   {
     "date": "19 Jun 2017",
@@ -365,7 +379,7 @@
     ],
     "tags": "actas, mancomunidad, parking",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2017/2017_19_junio-acta-ordinaria.pdf",
-    "id": "work22"
+    "id": "work23"
   },
   {
     "date": "17 Oct 2018",
@@ -387,7 +401,7 @@
     ],
     "tags": "actas, importante, cuenta bancaria, mancomunidad, portería",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2018/2018_17_octubre-acta-ordinaria.pdf",
-    "id": "work23"
+    "id": "work24"
   },
   {
     "date": "7 May 2019",
@@ -413,7 +427,7 @@
     ],
     "tags": "actas, cerramiento, parking, portería, importante",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2019/2019_7_mayo-acta-extraordinaria.pdf",
-    "id": "work24"
+    "id": "work25"
   },
   {
     "date": "23 Jul 2019",
@@ -427,7 +441,7 @@
     ],
     "tags": "portería, portería-venta",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/VENTA/2019_07_23-arras-penitenciales-complementarias.pdf",
-    "id": "work25"
+    "id": "work26"
   },
   {
     "date": "3 Oct 2019",
@@ -449,7 +463,7 @@
     ],
     "tags": "actas, cuenta bancaria, portería, importante",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2019/2019_3_octubre-acta-ordinaria.pdf",
-    "id": "work26"
+    "id": "work27"
   },
   {
     "date": "3 Dic 2019",
@@ -463,7 +477,21 @@
     ],
     "tags": "portería, portería-venta",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/VENTA/2019_12_03-ESCRITURA%20DESAFECTACION%20ELEMENTO%20COMUN%20(CON%20CARGAS%20SIN%20CANCELAR).pdf",
-    "id": "work27"
+    "id": "work28"
+  },
+  {
+    "date": "14 Oct 2020",
+    "title": "Acuerdo de alteración de la Descripción Catastral",
+    "president": "Oscar Ávila Rodriguéz, 4o9a",
+    "content": [
+      {
+        "id": 9,
+        "text": "<span style='font-weight: bold;'></span>Inscripción de la vivienda 1o1a en el catastro y valoración Catastral por importe de: <br>      <span style='font-weight: bold;'>Base imponible: </span>76.125,34<br>      <span style='font-weight: bold;'>Valor base:         </span> 62.480,18<br>      <span style='font-weight: bold;'>Reducción:            </span>9.600,61<br>      <span style='font-weight: bold;'>Último año con reducción:</span> 2026<br>      <span style='font-weight: bold;'>Base liquidable: </span> 66.594,73<br><span style='font-weight: bold;'><br>.</span> <br>"
+      }
+    ],
+    "tags": "portería, portería-venta",
+    "link": "../PISO-PORTERIA/VENTA/2020_14_10-acuerdo-alteracion-catastral.pdf",
+    "id": "work29"
   },
   {
     "date": "21 Abr 2021",
@@ -481,7 +509,7 @@
     ],
     "tags": "actas, portería, importante, portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2021/2021_21_abril-acta-ordinaria.pdf",
-    "id": "work28"
+    "id": "work30"
   },
   {
     "date": "2 Nov 2021",
@@ -499,7 +527,7 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2021_11_02_honorarios-procuradora.pdf",
-    "id": "work29"
+    "id": "work31"
   },
   {
     "date": "4 Mar 2022",
@@ -513,7 +541,7 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_03_04_juicio_verbal_primera.pdf",
-    "id": "work30"
+    "id": "work32"
   },
   {
     "date": "15 Mar 2022",
@@ -527,7 +555,7 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_03_15_juicio_verbal_primera.pdf",
-    "id": "work31"
+    "id": "work33"
   },
   {
     "date": "6 Abr 2022",
@@ -541,7 +569,7 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_04_06_juicio_verbal_primera.pdf",
-    "id": "work32"
+    "id": "work34"
   },
   {
     "date": "22 Jun 2022",
@@ -559,7 +587,7 @@
     ],
     "tags": "actas, cuenta bancaria, gas",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2022/2022_22_junio-acta-ordinaria.pdf",
-    "id": "work33"
+    "id": "work35"
   },
   {
     "date": "19 Sep 2022",
@@ -573,7 +601,21 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_09_19_juicio_verbal_primera.pdf",
-    "id": "work34"
+    "id": "work36"
+  },
+  {
+    "date": "29 Sep 2022",
+    "title": "Recurso de apelación 511/2023 -PRIMERA\n AUDIENCIA PROVINCIAL DE BARCELONA",
+    "president": "Guillém Martínez Bosch, 5o1a",
+    "content": [
+      {
+        "id": 0,
+        "text": "[8] ]La procuradora no está de acuerdo con una sentencia del 19 de septiembre de 2022.<br><br><span style='font-weight: bold;'>¿Por qué no está de acuerdo?</span><br>Dice que la sentencia tiene un \"error de derecho\". Específicamente, creen que la \"Comunidad de Propietarios\" no tenía derecho a demandar en primer lugar.<br><span style='font-weight: bold;'><br>¿Cuál es su argumento?</span><br><span style='font-weight: bold;'><br>Falta de acuerdo: <br></span>Para que la Comunidad de Propietarios demande, necesitan una reunión donde todos los vecinos estén de acuerdo. La procuradora dice que no hay prueba de que esta reunión haya ocurrido antes de la demanda.<br><span style='font-weight: bold;'>El presidente no puede actuar solo:<br></span>El presidente de la comunidad no puede demandar por su cuenta. Necesita el permiso de los vecinos en una reunión oficial.<br><span style='font-weight: bold;'>Prueba tardía: </span>La procuradora dice que la prueba de la reunión (el \"acta\") se presentó demasiado tarde, después de que se presentó la demanda.<br><span style='font-weight: bold;'>¿Qué piden?</span><br>Piden al juez que revise la sentencia anterior, les dé la razón y desestime la demanda contra su cliente.<br><br><span style='font-weight: bold;'>En resumen:<br></span>Que la demanda original fue presentada incorrectamente porque la Comunidad de Propietarios no siguió los pasos legales necesarios para autorizarla. Piden que se anule la sentencia anterior.<br><br>Procurador/a: Francisca Jose Ruiz Fernandez.<br>"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/023145b439d1a9fb15b7ede25393a2521a7684d3/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_09_29_recurso_apelacion_primera.pdf",
+    "id": "work37"
   },
   {
     "date": "20 Dic 2022",
@@ -587,12 +629,12 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2022_12_20_juicio_verbal_primera.pdf",
-    "id": "work35"
+    "id": "work38"
   },
   {
     "date": "3 Abr 2023",
     "title": "Ejecucion Provisional Primera Instancia 5313/2022 -2P - DECRETO",
-    "president": "Gemma González Martínez 5o4a",
+    "president": "Gemma González Martínez, 5o4a",
     "content": [
       {
         "id": 8,
@@ -601,12 +643,12 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2023_04_03_ejecucion_provisional_primera.pdf",
-    "id": "work36"
+    "id": "work39"
   },
   {
     "date": "28 Abr 2023",
     "title": "Ejecución provisional 5313/2022 - P.S. Oposición a la ejecución provisional 20/2023 -2P",
-    "president": "Gemma González Martínez 5o4a",
+    "president": "Gemma González Martínez, 5o4a",
     "content": [
       {
         "id": 8,
@@ -615,7 +657,7 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2023_04_28_oposicion_ejecucion-primera.pdf",
-    "id": "work37"
+    "id": "work40"
   },
   {
     "date": "21 Jun 2023",
@@ -628,7 +670,7 @@
       },
       {
         "id": 2,
-        "text": "<br>En cuanto a la cuenta bancaria de la comunidad, se recuerda que las comisiones actualmente son muy<br>elevadas para una cuenta de comunidad."
+        "text": "<br>En cuanto a la cuenta bancaria de la comunidad, se recuerda que las <span style='font-weight: bold;'>comisiones</span> actualmente son muy<br><span style='font-weight: bold;'>elevadas</span> para una cuenta de comunidad."
       },
       {
         "id": 3,
@@ -649,7 +691,7 @@
     ],
     "tags": "actas, gas, cerramiento, portería, cuenta bancaria, parking",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2023/2023_21_junio-acta-ordinaria.pdf",
-    "id": "work38"
+    "id": "work41"
   },
   {
     "date": "14 Nov 2023",
@@ -666,8 +708,8 @@
       }
     ],
     "tags": "actas, gas, portería",
-    "link": "https://raw.githubusercontent.com/gonzashan/M17/d21e4549f6877e054842fd6fc3b0226016d06253/ACTAS/2023/2023_14_noviembre-acta-extraordinaria.pdf",
-    "id": "work39"
+    "link": "https://raw.githubusercontent.com/gonzashan/M17/681ab675453884f935fe5d2ef312afb84bfed63a/ACTAS/2023/2023_14_noviembre-acta-extraordinaria.pdf",
+    "id": "work42"
   },
   {
     "date": "14 Dic 2023",
@@ -681,7 +723,7 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2023_12_14_recurso_apelacion_provincial.pdf",
-    "id": "work40"
+    "id": "work43"
   },
   {
     "date": "17 Abr 2024",
@@ -695,7 +737,7 @@
     ],
     "tags": "actas, gas",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/01c084057c03a2c38692e7719b45b4342b9f1da4/ACTAS/2024/2024_17_abril-acta-ordinaria.pdf",
-    "id": "work41"
+    "id": "work44"
   },
   {
     "date": "3 Sep 2024",
@@ -709,7 +751,7 @@
     ],
     "tags": "portería-juicio",
     "link": "https://raw.githubusercontent.com/gonzashan/M17/bfedaa6b005b16d0e6deebb1bb1d80c0a1528e6e/PISO-PORTERIA/PROCESO-DESAHUCIO/2024_09_03_recurso_apelacion_provincial.pdf",
-    "id": "work42"
+    "id": "work45"
   },
   {
     "date": "28 Ene 2025",
@@ -723,6 +765,34 @@
     ],
     "tags": "portería-juicio",
     "link": "",
-    "id": "work43"
+    "id": "work46"
+  },
+  {
+    "date": "15 Mar 2025",
+    "title": "Nota SImple Registrador/a de la Propiedad de Barcelona No 26",
+    "president": "Francisco Javier Simón Closas, 5o5a",
+    "content": [
+      {
+        "id": 9,
+        "text": "Descripción de la finca y sus cargas y servidumbre de paso<br><span style='font-weight: bold;'><br>Servidumbre de paso: </span><br>    · Algunas propiedades (predios sirvientes) deben permitir que otra propiedad (predio dominante) pase a través de su espacio interior para acceder a un edificio. <br>     · Este derecho de paso es permanente. <br><span style='font-weight: bold;'>Servidumbre de luces:</span> <br>     · Una propiedad (predio sirviente) debe permitir que otra propiedad (predio dominante) reciba luz a través de ventanas en su fachada. <br>     · Excluye las vistas por la cercanía de las edificaciones. <br><span style='font-weight: bold;'>Servidumbre de luces y vistas: </span><br>     · Algunas propiedades (predios sirvientes) deben permitir que otra propiedad (predio dominante) tenga ventanas con vistas directas sobre ellas. <br>     ·Esta servidumbre permite la apertura de ventanas tanto en la fachada este como sur del edificio dominante. <br><br>Se establecen derechos para que una propiedad <span style='font-weight: bold;'>pueda pasar a través de otras</span> y para que reciba luz y tenga vistas desde sus ventanas.<br> <br>"
+      }
+    ],
+    "tags": "portería, portería-venta",
+    "link": "../PISO-PORTERIA/VENTA/2025_03_15-nota-simple-cp-Mineria-17-vivienda-porteria.pdf",
+    "id": "work47"
+  },
+  {
+    "date": "19 Mar 2025",
+    "title": "Conversación teléfónica a con la Procuradora",
+    "president": "Francisco Javier Simón Closas, 5o5a",
+    "content": [
+      {
+        "id": 8,
+        "text": "Se informa que no ninguna ejecución en marcha y que el juicio para deliberar sobre el recurso 511/2023 en la sala Provincial tiene prevista su celebración el 26 de junio,"
+      }
+    ],
+    "tags": "portería-juicio",
+    "link": "",
+    "id": "work48"
   }
 ]
