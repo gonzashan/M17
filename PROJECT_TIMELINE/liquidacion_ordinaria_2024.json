@@ -10,7 +10,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         }
       ],
@@ -25,7 +25,7 @@
           "fecha": "04/12/2024",
           "empresa": "SEGUROS",
           "numero_documento": "50634",
-          "url": "../FACT-INDUSTRIALES/2024/50634.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/50634.pdf",
           "alerta": ""
         },
         {
@@ -34,7 +34,7 @@
           "fecha": "18/07/2024",
           "empresa": "SEGUROS",
           "numero_documento": "ABONO-48564",
-          "url": "../FACT-INDUSTRIALES/2024/50634.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/50634.pdf",
           "alerta": ""
         }
       ],
@@ -49,7 +49,7 @@
           "fecha": "28/06/2024",
           "empresa": "SERGIO LOPEZ BAREA",
           "numero_documento": "2024081",
-          "url": "../FACT-INDUSTRIALES/2024/2024081.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/2024081.pdf",
           "alerta": ""
         },
         {
@@ -58,7 +58,7 @@
           "fecha": "28/06/2024",
           "empresa": "SERGIO LOPEZ BAREA",
           "numero_documento": "2024107",
-          "url": "../FACT-INDUSTRIALES/2024/2024107.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/2024107.pdf",
           "alerta": ""
         },
         {
@@ -67,7 +67,7 @@
           "fecha": "31/07/2024",
           "empresa": "SERGIO LOPEZ BAREA",
           "numero_documento": "2024118",
-          "url": "../FACT-INDUSTRIALES/2024/2024118.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/2024118.pdf",
           "alerta": ""
         },
         {
@@ -76,7 +76,7 @@
           "fecha": "31/07/2024",
           "empresa": "SERGIO LOPEZ BAREA",
           "numero_documento": "2024101",
-          "url": "../FACT-INDUSTRIALES/2024/2024101.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/2024101.pdf",
           "alerta": ""
         }
       ],
@@ -91,7 +91,7 @@
           "fecha": "08/02/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24027",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24027.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24027.pdf",
           "alerta": ""
         },
         {
@@ -100,7 +100,7 @@
           "fecha": "08/02/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24026",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24026.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24026.pdf",
           "alerta": ""
         },
         {
@@ -109,7 +109,7 @@
           "fecha": "08/02/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "ABV00631",
-          "url": "../FACT-INDUSTRIALES/2024/ABV00631.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/ABV00631.pdf",
           "alerta": "❗"
         },
         {
@@ -118,7 +118,7 @@
           "fecha": "24/01/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "ABV00625",
-          "url": "../FACT-INDUSTRIALES/2024/ABV00625.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/ABV00625.pdf",
           "alerta": ""
         },
         {
@@ -127,7 +127,7 @@
           "fecha": "#N/A",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -136,7 +136,7 @@
           "fecha": "13/05/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24138",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24138.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24138.pdf",
           "alerta": "❗"
         },
         {
@@ -145,7 +145,7 @@
           "fecha": "20/06/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24178",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24178.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24178.pdf",
           "alerta": ""
         },
         {
@@ -154,7 +154,7 @@
           "fecha": "06/07/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24189",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24189.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24189.pdf",
           "alerta": ""
         },
         {
@@ -163,7 +163,7 @@
           "fecha": "25/07/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24210",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24210.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24210.pdf",
           "alerta": "❗"
         },
         {
@@ -172,7 +172,7 @@
           "fecha": "19/06/2024",
           "empresa": "BLANCO CARRASCAL S.L",
           "numero_documento": "24-239",
-          "url": "../FACT-INDUSTRIALES/2024/24-239 .pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/24-239 .pdf",
           "alerta": ""
         },
         {
@@ -181,7 +181,7 @@
           "fecha": "13/09/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24239",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24239.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24239.pdf",
           "alerta": ""
         },
         {
@@ -190,7 +190,7 @@
           "fecha": "17/10/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24261",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24261.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24261.pdf",
           "alerta": "❗"
         },
         {
@@ -199,7 +199,7 @@
           "fecha": "01/10/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "ABV00688",
-          "url": "../FACT-INDUSTRIALES/2024/ABV00688.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/ABV00688.pdf",
           "alerta": ""
         },
         {
@@ -208,7 +208,7 @@
           "fecha": "14/11/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "ABV00715",
-          "url": "../FACT-INDUSTRIALES/2024/ABV00715.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/ABV00715.pdf",
           "alerta": "❗"
         },
         {
@@ -217,7 +217,7 @@
           "fecha": "29/10/2024",
           "empresa": "VARIOS",
           "numero_documento": "SANCIO-AJUNTAMENT",
-          "url": "../FACT-INDUSTRIALES/2024/SANCIO-AJUNTAMENT.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/SANCIO-AJUNTAMENT.pdf",
           "alerta": ""
         }
       ],
@@ -232,7 +232,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -241,7 +241,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -250,7 +250,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -259,7 +259,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -268,7 +268,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -277,7 +277,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -286,7 +286,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -295,7 +295,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -304,7 +304,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -313,7 +313,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -322,7 +322,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": "❗"
         },
         {
@@ -331,7 +331,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -340,7 +340,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         }
       ],
@@ -355,7 +355,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -364,7 +364,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -373,7 +373,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -382,7 +382,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         },
         {
@@ -391,7 +391,7 @@
           "fecha": "",
           "empresa": "",
           "numero_documento": "",
-          "url": "",
+          "doc": "",
           "alerta": ""
         }
       ],
@@ -406,7 +406,7 @@
           "fecha": "12/06/2024",
           "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
           "numero_documento": "48159",
-          "url": "../FACT-INDUSTRIALES/2024/48159-MANCOM_REBUT_1_2-TRIMESTRE.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/48159-MANCOM_REBUT_1_2-TRIMESTRE.pdf",
           "alerta": ""
         },
         {
@@ -415,7 +415,7 @@
           "fecha": "12/07/2024",
           "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
           "numero_documento": "48586",
-          "url": "../FACT-INDUSTRIALES/2024/48586-MANCOM_REBUT_3-TRIMESTRE.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/48586-MANCOM_REBUT_3-TRIMESTRE.pdf",
           "alerta": ""
         },
         {
@@ -424,7 +424,7 @@
           "fecha": "01/10/2024",
           "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
           "numero_documento": "48586",
-          "url": "../FACT-INDUSTRIALES/2024/48586-MANCOM_REBUT_3-TRIMESTRE.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/48586-MANCOM_REBUT_3-TRIMESTRE.pdf",
           "alerta": ""
         }
       ],
@@ -439,7 +439,7 @@
           "fecha": "24/04/2024",
           "empresa": "PREVENFINCA SL",
           "numero_documento": "240338",
-          "url": "../FACT-INDUSTRIALES/2024/240338.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240338.pdf",
           "alerta": "❗"
         }
       ],
@@ -456,7 +456,7 @@
           "fecha": "06/02/2024",
           "empresa": "AUDAX",
           "numero_documento": "240033403",
-          "url": "../FACT-INDUSTRIALES/2024/240033403.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240033403.pdf",
           "alerta": ""
         },
         {
@@ -465,7 +465,7 @@
           "fecha": "07/03/2024",
           "empresa": "AUDAX",
           "numero_documento": "240060688",
-          "url": "../FACT-INDUSTRIALES/2024/240060688.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240060688.pdf",
           "alerta": ""
         },
         {
@@ -474,7 +474,7 @@
           "fecha": "05/04/2024",
           "empresa": "AUDAX",
           "numero_documento": "240087354",
-          "url": "../FACT-INDUSTRIALES/2024/240087354.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240087354.pdf",
           "alerta": ""
         },
         {
@@ -483,16 +483,16 @@
           "fecha": "07/05/2024",
           "empresa": "AUDAX",
           "numero_documento": "240112857",
-          "url": "../FACT-INDUSTRIALES/2024/240112857.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240112857.pdf",
           "alerta": ""
         },
         {
           "descripcion": "Llum escala",
           "importe": "-170.61",
-          "fecha": "07/06/2024",
+          "fecha": "07/06/2024",  
           "empresa": "AUDAX",
           "numero_documento": "240139918",
-          "url": "../FACT-INDUSTRIALES/2024/240139918.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240139918.pdf",
           "alerta": ""
         },
         {
@@ -501,7 +501,7 @@
           "fecha": "04/07/2024",
           "empresa": "AUDAX",
           "numero_documento": "240164839",
-          "url": "../FACT-INDUSTRIALES/2024/240164839.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240164839.pdf",
           "alerta": ""
         },
         {
@@ -510,7 +510,7 @@
           "fecha": "06/08/2024",
           "empresa": "AUDAX",
           "numero_documento": "240190907",
-          "url": "../FACT-INDUSTRIALES/2024/240190907.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240190907.pdf",
           "alerta": ""
         },
         {
@@ -519,7 +519,7 @@
           "fecha": "27/08/2024",
           "empresa": "AUDAX",
           "numero_documento": "240206896",
-          "url": "../FACT-INDUSTRIALES/2024/240206896.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240206896.pdf",
           "alerta": ""
         },
         {
@@ -528,7 +528,7 @@
           "fecha": "13/10/2024",
           "empresa": "VISALIA",
           "numero_documento": "SVGS240139252",
-          "url": "../FACT-INDUSTRIALES/2024/SVGS240139252.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/SVGS240139252.pdf",
           "alerta": ""
         },
         {
@@ -537,7 +537,7 @@
           "fecha": "08/11/2024",
           "empresa": "VISALIA",
           "numero_documento": "SVGS240157872",
-          "url": "../FACT-INDUSTRIALES/2024/SVGS240157872.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/SVGS240157872.pdf",
           "alerta": ""
         },
         {
@@ -546,7 +546,7 @@
           "fecha": "10/12/2024",
           "empresa": "VISALIA",
           "numero_documento": "SVGS240179733",
-          "url": "../FACT-INDUSTRIALES/2024/SVGS240179733.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/SVGS240179733.pdf",
           "alerta": ""
         }
       ],
@@ -561,7 +561,7 @@
           "fecha": "06/03/2024",
           "empresa": "AIGÜES DE BARCELONA",
           "numero_documento": "20242600305",
-          "url": "../FACT-INDUSTRIALES/2024/20242600305.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/20242600305.pdf",
           "alerta": ""
         },
         {
@@ -570,7 +570,7 @@
           "fecha": "07/05/2024",
           "empresa": "AIGÜES DE BARCELONA",
           "numero_documento": "20243105838",
-          "url": "../FACT-INDUSTRIALES/2024/20243105838.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/20243105838.pdf",
           "alerta": ""
         },
         {
@@ -579,7 +579,7 @@
           "fecha": "05/07/2024",
           "empresa": "AIGÜES DE BARCELONA",
           "numero_documento": "20244606204",
-          "url": "../FACT-INDUSTRIALES/2024/20244606204.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/20244606204.pdf",
           "alerta": ""
         },
         {
@@ -588,7 +588,7 @@
           "fecha": "05/09/2024",
           "empresa": "AIGÜES DE BARCELONA",
           "numero_documento": "20246084484",
-          "url": "../FACT-INDUSTRIALES/2024/20246084484.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/20246084484.pdf",
           "alerta": ""
         },
         {
@@ -597,7 +597,7 @@
           "fecha": "07/11/2024",
           "empresa": "AIGÜES DE BARCELONA",
           "numero_documento": "20247583280",
-          "url": "../FACT-INDUSTRIALES/2024/20247583280.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/20247583280.pdf",
           "alerta": ""
         },
         {
@@ -606,7 +606,7 @@
           "fecha": "30/10/2024",
           "empresa": "AIGÜES DE BARCELONA",
           "numero_documento": "MUSA-50002",
-          "url": "../FACT-INDUSTRIALES/2024/MUSA-50002.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/MUSA-50002.pdf",
           "alerta": ""
         }
       ],
@@ -621,7 +621,7 @@
           "fecha": "01/10/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -630,7 +630,7 @@
           "fecha": "08/02/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24020",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24020.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24020.pdf",
           "alerta": "❗"
         },
         {
@@ -639,7 +639,7 @@
           "fecha": "01/01/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -648,7 +648,7 @@
           "fecha": "01/02/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -657,7 +657,7 @@
           "fecha": "01/03/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -666,7 +666,7 @@
           "fecha": "01/04/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -675,7 +675,7 @@
           "fecha": "01/05/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -684,7 +684,7 @@
           "fecha": "01/06/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -693,7 +693,7 @@
           "fecha": "01/07/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -702,7 +702,7 @@
           "fecha": "01/08/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -711,7 +711,7 @@
           "fecha": "01/09/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         },
         {
@@ -720,7 +720,7 @@
           "fecha": "01/11/2024",
           "empresa": "LIMPIEZA MOLITER SCP",
           "numero_documento": "63539",
-          "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/63539.pdf",
           "alerta": ""
         }
       ],
@@ -735,7 +735,7 @@
           "fecha": "01/01/2024",
           "empresa": "OTIS MOVILITY",
           "numero_documento": "1K52988M",
-          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
           "alerta": ""
         },
         {
@@ -744,7 +744,7 @@
           "fecha": "01/04/2024",
           "empresa": "OTIS MOVILITY",
           "numero_documento": "1K52988M",
-          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
           "alerta": ""
         },
         {
@@ -753,7 +753,7 @@
           "fecha": "09/07/2024",
           "empresa": "OTIS MOVILITY",
           "numero_documento": "1K52988M",
-          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
           "alerta": ""
         },
         {
@@ -762,7 +762,7 @@
           "fecha": "01/10/2024",
           "empresa": "OTIS MOVILITY",
           "numero_documento": "1K52988M",
-          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
           "alerta": ""
         }
       ],
@@ -777,7 +777,7 @@
           "fecha": "19/02/2024",
           "empresa": "OTIS MOVILITY",
           "numero_documento": "3269449A",
-          "url": "../FACT-INDUSTRIALES/2024/3269449A.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/3269449A.pdf",
           "alerta": ""
         },
         {
@@ -786,7 +786,7 @@
           "fecha": "24/10/2024",
           "empresa": "OTIS MOVILITY",
           "numero_documento": "3333458A",
-          "url": "../FACT-INDUSTRIALES/2024/3333458A.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/3333458A.pdf",
           "alerta": ""
         },
         {
@@ -795,7 +795,7 @@
           "fecha": "03/10/2024",
           "empresa": "OTIS MOVILITY",
           "numero_documento": "1L48519M",
-          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
           "alerta": ""
         },
         {
@@ -804,7 +804,7 @@
           "fecha": "03/10/2024",
           "empresa": "OTIS MOVILITY",
           "numero_documento": "1L48519M",
-          "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
           "alerta": ""
         }
       ],
@@ -819,7 +819,7 @@
           "fecha": "01/06/2024",
           "empresa": "PLANA FABREGA SERVEI TECNIC SL",
           "numero_documento": "FSBST2405151",
-          "url": "../FACT-INDUSTRIALES/2024/FSBST2405151.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FSBST2405151.pdf",
           "alerta": ""
         },
         {
@@ -828,7 +828,7 @@
           "fecha": "12/11/2024",
           "empresa": "PLANA FABREGA SERVEI TECNIC SL",
           "numero_documento": "FPBST2406667",
-          "url": "../FACT-INDUSTRIALES/2024/FPBST2406667.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FPBST2406667.pdf",
           "alerta": ""
         }
       ],
@@ -843,7 +843,7 @@
           "fecha": "01/06/2024",
           "empresa": "PLANA FABREGA SERVEI TECNIC SL",
           "numero_documento": "FSBST2405150",
-          "url": "../FACT-INDUSTRIALES/2024/FSBST2405150.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FSBST2405150.pdf",
           "alerta": ""
         }
       ],
@@ -858,7 +858,7 @@
           "fecha": "30/20/2024",
           "empresa": "SEMAPRIM S.L.",
           "numero_documento": "24026177",
-          "url": "../FACT-INDUSTRIALES/2024/24026177.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/24026177.pdf",
           "alerta": ""
         }
       ],
@@ -873,7 +873,7 @@
           "fecha": "15/07/2024",
           "empresa": "ROTABE CONTROL",
           "numero_documento": "24/0307",
-          "url": "../FACT-INDUSTRIALES/2024/24:0307.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/24:0307.pdf",
           "alerta": ""
         }
       ],
@@ -888,7 +888,7 @@
           "fecha": "30/01/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "ABV00626",
-          "url": "../FACT-INDUSTRIALES/2024/ABV00626.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/ABV00626.pdf",
           "alerta": ""
         },
         {
@@ -897,7 +897,7 @@
           "fecha": "01/04/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24080",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24080.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24080.pdf",
           "alerta": ""
         },
         {
@@ -906,7 +906,7 @@
           "fecha": "16/10/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "ABV00698",
-          "url": "../FACT-INDUSTRIALES/2024/ABV00698.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/ABV00698.pdf",
           "alerta": ""
         },
         {
@@ -915,7 +915,7 @@
           "fecha": "26/11/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "ABV00719",
-          "url": "../FACT-INDUSTRIALES/2024/ABV00719.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/ABV00719.pdf",
           "alerta": ""
         }
       ],
@@ -930,7 +930,7 @@
           "fecha": "28/08/2024",
           "empresa": "SERRALLERIA RAURICH",
           "numero_documento": "240338",
-          "url": "../FACT-INDUSTRIALES/2024/240338.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/240338.pdf",
           "alerta": "❗"
         },
         {
@@ -939,7 +939,7 @@
           "fecha": "18/10/2024",
           "empresa": "A.A ABASAT S.L.U",
           "numero_documento": "ABSAT-25€",
-          "url": "../FACT-INDUSTRIALES/2024/SVGS240139252.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/SVGS240139252.pdf",
           "alerta": ""
         }
       ],
@@ -954,7 +954,7 @@
           "fecha": "05/11/2024",
           "empresa": "SIGNUS CLAS SL",
           "numero_documento": "FAC24269",
-          "url": "../FACT-INDUSTRIALES/2024/FAC24269.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/FAC24269.pdf",
           "alerta": "❗"
         },
         {
@@ -963,7 +963,7 @@
           "fecha": "09/12/2024",
           "empresa": "VARIOS",
           "numero_documento": "678652",
-          "url": "../FACT-INDUSTRIALES/2024/bahuhaus.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/bahuhaus.pdf",
           "alerta": ""
         },
         {
@@ -972,7 +972,7 @@
           "fecha": "12/12/2024",
           "empresa": "VARIOS",
           "numero_documento": "VEÏNS-1",
-          "url": "../FACT-INDUSTRIALES/2024/GASTO-VECINOS-1.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/GASTO-VECINOS-1.pdf",
           "alerta": ""
         },
         {
@@ -981,7 +981,7 @@
           "fecha": "12/12/2024",
           "empresa": "VARIOS",
           "numero_documento": "VEÏN-2",
-          "url": "../FACT-INDUSTRIALES/2024/GASTO-VECINOS-2.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/GASTO-VECINOS-2.pdf",
           "alerta": ""
         }
       ],
@@ -996,7 +996,7 @@
           "fecha": "08/04/2024",
           "empresa": "KOLBEGAS SERVEIS SL",
           "numero_documento": "24-0073",
-          "url": "../FACT-INDUSTRIALES/2024/24-0073.pdf",
+          "doc": "../FACT-INDUSTRIALES/2024/24-0073.pdf",
           "alerta": "❗"
         }
       ],
