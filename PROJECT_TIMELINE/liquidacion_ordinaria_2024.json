@@ -5,7 +5,7 @@
       "cod": "0",
       "transacciones": [
         {
-          "descripcion": "Factures error",
+          "descripcion": "IRPF Pago M111 Factures error",
           "importe": "-18",
           "fecha": "",
           "empresa": "",
@@ -63,7 +63,7 @@
         },
         {
           "descripcion": "Arquitecte  Seguiment Exp Sancionador AUT03202400371 :Instancia conforme esta en execució.",
-          "importe": "-127.21",
+          "importe": "-127.20",
           "fecha": "31/07/2024",
           "empresa": "SERGIO LOPEZ BAREA",
           "numero_documento": "2024118",
