@@ -160,6 +160,38 @@
         "Totales": "-1552.00"
       },
       {
+        "cod": "21",
+        "transacciones": [
+          {
+            "descripcion": "Impresos i bestretes",
+            "importe": "-107",
+            "fecha": "31/12/2023",
+            "empresa": "FINCAS PÉREZ & ASOCIADOS",
+            "numero_documento": "",
+            "url": "../FACT-INDUSTRIALES/2023/.pdf",
+            "alerta": ""
+          }
+        ],
+        "Totales": "-107.00"
+      },
+      {
+        "cod": "22",
+        "transacciones": [
+          {
+            "descripcion": "Alquiler sala reuniones. Reunión ordinaria      ",
+            "importe": "-62.36",
+            "fecha": "21/06/2023",
+            "empresa": "ESTRELLAS ALTAS",
+            "numero_documento": "",
+            "url": "../FACT-INDUSTRIALES/2023/.pdf",
+            "alerta": ""
+          }
+        ],
+        "Totales": "-62.36"
+      }
+    ],
+    "Partes iguales menos locales": [
+      {
         "cod": "8",
         "transacciones": [
           {
@@ -425,45 +457,7 @@
             "numero_documento": "59844",
             "url": "../FACT-INDUSTRIALES/2023/59844.pdf",
             "alerta": ""
-          }
-        ],
-        "Totales": "-4338.28"
-      },
-      {
-        "cod": "21",
-        "transacciones": [
-          {
-            "descripcion": "Impresos i bestretes",
-            "importe": "-107",
-            "fecha": "31/12/2023",
-            "empresa": "FINCAS PÉREZ & ASOCIADOS",
-            "numero_documento": "",
-            "url": "../FACT-INDUSTRIALES/2023/.pdf",
-            "alerta": ""
-          }
-        ],
-        "Totales": "-107.00"
-      },
-      {
-        "cod": "22",
-        "transacciones": [
-          {
-            "descripcion": "Alquiler sala reuniones. Reunión ordinaria      ",
-            "importe": "-62.36",
-            "fecha": "21/06/2023",
-            "empresa": "ESTRELLAS ALTAS",
-            "numero_documento": "",
-            "url": "../FACT-INDUSTRIALES/2023/.pdf",
-            "alerta": ""
-          }
-        ],
-        "Totales": "-62.36"
-      }
-    ],
-    "Partes iguales menos locales": [
-      {
-        "cod": "10",
-        "transacciones": [
+          },
           {
             "descripcion": "Neteja escala",
             "importe": "-780",
@@ -519,7 +513,7 @@
             "alerta": ""
           }
         ],
-        "Totales": "-4680.00"
+        "Totales": "-9018.28"
       },
       {
         "cod": "11",
@@ -694,54 +688,12 @@
           }
         ],
         "Totales": "-547.86"
-      },
-      {
-        "cod": "20",
-        "transacciones": [
-          {
-            "descripcion": "Obras comunidad 2° Pago instalación Gas",
-            "importe": "-28302.51",
-            "fecha": "20/06/2023",
-            "empresa": "KOLBEGAS SERVEIS SL",
-            "numero_documento": "23-0125",
-            "url": "../FACT-INDUSTRIALES/2023/23-0125.pdf",
-            "alerta": ""
-          },
-          {
-            "descripcion": "Obras comunidad 3° pago instalación Gas",
-            "importe": "-20216.08",
-            "fecha": "28/07/2023",
-            "empresa": "KOLBEGAS SERVEIS SL",
-            "numero_documento": "23-0150",
-            "url": "../FACT-INDUSTRIALES/2023/23-0150.pdf",
-            "alerta": ""
-          },
-          {
-            "descripcion": "Obras comunidad 15/12/2023, Actuación en cometida gas",
-            "importe": "-853.95",
-            "fecha": "15/12/2023",
-            "empresa": "KOBELGAS",
-            "numero_documento": "",
-            "url": "../FACT-INDUSTRIALES/2023/.pdf",
-            "alerta": ""
-          },
-          {
-            "descripcion": "Obras comunidad 4ª FAC. 30% Instalación gas comunitario",
-            "importe": "-24259.29",
-            "fecha": "27/12/2023",
-            "empresa": "KOLBEGAS SERVEIS SL",
-            "numero_documento": "23-0243",
-            "url": "../FACT-INDUSTRIALES/2023/23-0243.pdf",
-            "alerta": ""
-          }
-        ],
-        "Totales": "-73631.83"
       }
     ]
   },
   {
     "anio": 2024,
-    "titulo": "LIQUIDACIÓ ORDINARIA DES DEL 01/01/2024 FINS EL 31/12/2024",
+    "titulo": "LIQUIDACIÓ ORDINARIA DES DEL 01/01/2024 FINS A 31/12/2024",
     "Partes todos iguales": [
       {
         "cod": "0",
@@ -952,18 +904,9 @@
             "numero_documento": "ABV00715",
             "url": "../FACT-INDUSTRIALES/2024/ABV00715.pdf",
             "alerta": "❗"
-          },
-          {
-            "descripcion": "Taxes EXP. 205560475475",
-            "importe": "-300",
-            "fecha": "29/10/2024",
-            "empresa": "VARIOS",
-            "numero_documento": "SANCIO-AJUNTAMENT",
-            "url": "../FACT-INDUSTRIALES/2024/SANCIO-AJUNTAMENT.pdf",
-            "alerta": ""
           }
         ],
-        "Totales": "-12888.42"
+        "Totales": "-12588.42"
       },
       {
         "cod": "4",
@@ -1041,57 +984,6 @@
             "alerta": ""
           },
           {
-            "descripcion": "Llei de protecció de dades Exercici 2024 Impresos i bestretes Exercici 2024",
-            "importe": "-96.8",
-            "fecha": "",
-            "empresa": "FINCAS PÉREZ & ASOCIADOS",
-            "numero_documento": "",
-            "url": "",
-            "alerta": ""
-          },
-          {
-            "descripcion": "Impresos i bestretes Exercici 2024",
-            "importe": "-111",
-            "fecha": "",
-            "empresa": "FINCAS PÉREZ & ASOCIADOS",
-            "numero_documento": "",
-            "url": "",
-            "alerta": ""
-          },
-          {
-            "descripcion": "Certificat digital Exercici 2024",
-            "importe": "-145.2",
-            "fecha": "",
-            "empresa": "FINCAS PÉREZ & ASOCIADOS",
-            "numero_documento": "",
-            "url": "",
-            "alerta": "❗"
-          },
-          {
-            "descripcion": "Telegrama burofax Banco Bilbao Vizscaya 4º 3ª (Inici Reclamació Judicial morositat)",
-            "importe": "-44.6",
-            "fecha": "",
-            "empresa": "FINCAS PÉREZ & ASOCIADOS",
-            "numero_documento": "",
-            "url": "",
-            "alerta": ""
-          },
-          {
-            "descripcion": "Telegrama burofax MontserratIglesias Escude 5° 3ª (Inici Reclamació Judicial morositat)",
-            "importe": "-44.6",
-            "fecha": "",
-            "empresa": "FINCAS PÉREZ & ASOCIADOS",
-            "numero_documento": "",
-            "url": "",
-            "alerta": ""
-          }
-        ],
-        "Totales": "-7179.48"
-      },
-      {
-        "cod": "5",
-        "transacciones": [
-          {
             "descripcion": "Tramits Hisenda IVA Prestació Modelo 347",
             "importe": "-100",
             "fecha": "",
@@ -1137,7 +1029,58 @@
             "alerta": ""
           }
         ],
-        "Totales": "-375.50"
+        "Totales": "-7112.78"
+      },
+      {
+        "cod": "5",
+        "transacciones": [
+          {
+            "descripcion": "Llei de protecció de dades Exercici 2024 Impresos i bestretes Exercici 2024",
+            "importe": "-96.8",
+            "fecha": "",
+            "empresa": "FINCAS PÉREZ & ASOCIADOS",
+            "numero_documento": "",
+            "url": "",
+            "alerta": ""
+          },
+          {
+            "descripcion": "Impresos i bestretes Exercici 2024",
+            "importe": "-111",
+            "fecha": "",
+            "empresa": "FINCAS PÉREZ & ASOCIADOS",
+            "numero_documento": "",
+            "url": "",
+            "alerta": ""
+          },
+          {
+            "descripcion": "Certificat digital Exercici 2024",
+            "importe": "-145.2",
+            "fecha": "",
+            "empresa": "FINCAS PÉREZ & ASOCIADOS",
+            "numero_documento": "",
+            "url": "",
+            "alerta": "❗"
+          },
+          {
+            "descripcion": "Telegrama burofax Banco Bilbao Vizscaya 4º 3ª (Inici Reclamació Judicial morositat)",
+            "importe": "-44.6",
+            "fecha": "",
+            "empresa": "FINCAS PÉREZ & ASOCIADOS",
+            "numero_documento": "",
+            "url": "",
+            "alerta": ""
+          },
+          {
+            "descripcion": "Telegrama burofax MontserratIglesias Escude 5° 3ª (Inici Reclamació Judicial morositat)",
+            "importe": "-44.6",
+            "fecha": "",
+            "empresa": "FINCAS PÉREZ & ASOCIADOS",
+            "numero_documento": "",
+            "url": "",
+            "alerta": ""
+          }
+        ],
+        "Totales": "-442.20"
       },
       {
         "cod": "6",
@@ -1186,6 +1129,21 @@
           }
         ],
         "Totales": "-145.20"
+      },
+      {
+        "cod": "475",
+        "transacciones": [
+          {
+            "descripcion": "Taxes EXP. 205560475475",
+            "importe": "-300",
+            "fecha": "29/10/2024",
+            "empresa": "VARIOS",
+            "numero_documento": "SANCIO-AJUNTAMENT",
+            "url": "../FACT-INDUSTRIALES/2024/SANCIO-AJUNTAMENT.pdf",
+            "alerta": ""
+          }
+        ],
+        "Totales": "-300.00"
       }
     ],
     "Partes iguales menos locales": [
@@ -1565,13 +1523,13 @@
             "alerta": ""
           },
           {
-            "descripcion": "Manteniment interfonInstal·lació porter visor 2024",
+            "descripcion": "Manteniment interfon Instal·lació porter visor 2024",
             "importe": "-5678.41",
             "fecha": "12/11/2024",
             "empresa": "PLANA FABREGA SERVEI TECNIC SL",
             "numero_documento": "FPBST2406667",
             "url": "../FACT-INDUSTRIALES/2024/FPBST2406667.pdf",
-            "alerta": ""
+            "alerta": "#N/A"
           }
         ],
         "Totales": "-6110.90"
@@ -1728,21 +1686,6 @@
           }
         ],
         "Totales": "-858.13"
-      },
-      {
-        "cod": "20",
-        "transacciones": [
-          {
-            "descripcion": "Obres comunitat Taxa cía gas per actuació escomesa de cía. gas segons pressupost 0118-240332 KOLBEGAS",
-            "importe": "-1604.07",
-            "fecha": "08/04/2024",
-            "empresa": "KOLBEGAS SERVEIS SL",
-            "numero_documento": "24-0073",
-            "url": "../FACT-INDUSTRIALES/2024/24-0073.pdf",
-            "alerta": "❗"
-          }
-        ],
-        "Totales": "-1604.07"
       }
     ]
   }
