@@ -688,6 +688,48 @@
           }
         ],
         "Totales": "-547.86"
+      },
+      {
+        "cod": "20",
+        "transacciones": [
+          {
+            "descripcion": "Obras comunidad 2° Pago instalación Gas",
+            "importe": "-28302.51",
+            "fecha": "20/06/2023",
+            "empresa": "KOLBEGAS SERVEIS SL",
+            "numero_documento": "23-0125",
+            "url": "../FACT-INDUSTRIALES/2023/23-0125.pdf",
+            "alerta": ""
+          },
+          {
+            "descripcion": "Obras comunidad 3° pago instalación Gas",
+            "importe": "-20216.08",
+            "fecha": "28/07/2023",
+            "empresa": "KOLBEGAS SERVEIS SL",
+            "numero_documento": "23-0150",
+            "url": "../FACT-INDUSTRIALES/2023/23-0150.pdf",
+            "alerta": ""
+          },
+          {
+            "descripcion": "Obras comunidad 15/12/2023, Actuación en cometida gas",
+            "importe": "-853.95",
+            "fecha": "15/12/2023",
+            "empresa": "KOBELGAS",
+            "numero_documento": "",
+            "url": "../FACT-INDUSTRIALES/2023/.pdf",
+            "alerta": ""
+          },
+          {
+            "descripcion": "Obras comunidad 4ª FAC. 30% Instalación gas comunitario",
+            "importe": "-24259.29",
+            "fecha": "27/12/2023",
+            "empresa": "KOLBEGAS SERVEIS SL",
+            "numero_documento": "23-0243",
+            "url": "../FACT-INDUSTRIALES/2023/23-0243.pdf",
+            "alerta": ""
+          }
+        ],
+        "Totales": "-73631.83"
       }
     ]
   },
@@ -1686,6 +1728,21 @@
           }
         ],
         "Totales": "-858.13"
+      },
+      {
+        "cod": "20",
+        "transacciones": [
+          {
+            "descripcion": "Obres comunitat Taxa cía gas per actuació escomesa de cía. gas segons pressupost 0118-240332 KOLBEGAS",
+            "importe": "-1604.07",
+            "fecha": "08/04/2024",
+            "empresa": "KOLBEGAS SERVEIS SL",
+            "numero_documento": "24-0073",
+            "url": "../FACT-INDUSTRIALES/2024/24-0073.pdf",
+            "alerta": "❗"
+          }
+        ],
+        "Totales": "-1604.07"
       }
     ]
   }
