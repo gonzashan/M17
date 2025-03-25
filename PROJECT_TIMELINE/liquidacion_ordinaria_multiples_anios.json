@@ -741,7 +741,7 @@
         "cod": "0",
         "transacciones": [
           {
-            "descripcion": "Factures error",
+            "descripcion": "IRPF Pago M111 Factures error",
             "importe": "-18",
             "fecha": "",
             "empresa": "",
@@ -876,24 +876,6 @@
             "alerta": "❗"
           },
           {
-            "descripcion": "Obres comunitat Col.locació xarxes de protecció en façana posterior (ppto 107) -Inici feines",
-            "importe": "-1919.69",
-            "fecha": "20/06/2024",
-            "empresa": "SIGNUS CLAS SL",
-            "numero_documento": "FAC24178",
-            "url": "../FACT-INDUSTRIALES/2024/FAC24178.pdf",
-            "alerta": ""
-          },
-          {
-            "descripcion": "Obres comunitat Col.locació xarxes de protecció en façana posterior (ppto 107) - Finalització feines.",
-            "importe": "-3312.94",
-            "fecha": "06/07/2024",
-            "empresa": "SIGNUS CLAS SL",
-            "numero_documento": "FAC24189",
-            "url": "../FACT-INDUSTRIALES/2024/FAC24189.pdf",
-            "alerta": ""
-          },
-          {
             "descripcion": "Obres comunitat Reparacions estanteries fusta zona video vigilancia + rejilla (Reclamado indemnizacion al seguro según siniestro 76220558)",
             "importe": "-300.39",
             "fecha": "25/07/2024",
@@ -918,7 +900,7 @@
             "empresa": "SIGNUS CLAS SL",
             "numero_documento": "FAC24239",
             "url": "../FACT-INDUSTRIALES/2024/FAC24239.pdf",
-            "alerta": ""
+            "alerta": "❗"
           },
           {
             "descripcion": "Obres comunitat 50% Pressupost 68- Porta d'accés subterrani",
@@ -948,7 +930,7 @@
             "alerta": "❗"
           }
         ],
-        "Totales": "-12588.42"
+        "Totales": "-7355.79"
       },
       {
         "cod": "4",
@@ -1733,6 +1715,24 @@
         "cod": "20",
         "transacciones": [
           {
+            "descripcion": "Obres comunitat Col.locació xarxes de protecció en façana posterior (ppto 107) -Inici feines",
+            "importe": "-1919.69",
+            "fecha": "20/06/2024",
+            "empresa": "SIGNUS CLAS SL",
+            "numero_documento": "FAC24178",
+            "url": "../FACT-INDUSTRIALES/2024/FAC24178.pdf",
+            "alerta": ""
+          },
+          {
+            "descripcion": "Obres comunitat Col.locació xarxes de protecció en façana posterior (ppto 107) - Finalització feines.",
+            "importe": "-3312.94",
+            "fecha": "06/07/2024",
+            "empresa": "SIGNUS CLAS SL",
+            "numero_documento": "FAC24189",
+            "url": "../FACT-INDUSTRIALES/2024/FAC24189.pdf",
+            "alerta": ""
+          },
+          {
             "descripcion": "Obres comunitat Taxa cía gas per actuació escomesa de cía. gas segons pressupost 0118-240332 KOLBEGAS",
             "importe": "-1604.07",
             "fecha": "08/04/2024",
@@ -1742,7 +1742,7 @@
             "alerta": "❗"
           }
         ],
-        "Totales": "-1604.07"
+        "Totales": "-6836.70"
       }
     ]
   }
