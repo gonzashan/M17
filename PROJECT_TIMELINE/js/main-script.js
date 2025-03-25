@@ -436,7 +436,7 @@ async function inicio2() {
         await cargarLiquidaciones(); // Espera a que cargarLiquidaciones termine
         await obtenerDatos();
 
-        fetch('https://raw.githubusercontent.com/gonzashan/M17/e8fb70a6cf3bfee92668d862eb9942728f3d806c/PROJECT_TIMELINE/timeline_data.json')
+        fetch('../json/timeline_data.json')
             .then(function (response) {
                 if (!response.ok) {
                     throw new Error('No se pudo cargar el archivo JSON.');
