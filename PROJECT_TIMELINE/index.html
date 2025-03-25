@@ -3,57 +3,16 @@
 
 <head>
   <title>Línea de tiempo M17</title>
-  <link id="estilo1" rel="stylesheet" href="css/style.css">
+  <link id="estilo1" rel="stylesheet" href="style.css">
   <link id="estilo2" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
-  <link id="estilo3" rel="stylesheet" href="css/style-liq.css" >
+  <link id="estilo3" rel="stylesheet" href="style-liq.css" >
 
   <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
   <link rel="manifest" href="images/site.webmanifest">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-  <script src="https://KKKcdn.bootcss.com/html2pdf.js/0.9.1/html2pdf.bundle.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.1/html2pdf.bundle.min.js"></script>
-    <style>  
-            
-            .header-container > h2 {
-              color: #000;
-              font-size: 13px;
-              letter-spacing: 1.5px;
-              margin: 1em 1em 0.4em 0;
-            } 
-            .header-container > h4 {
-              color: #000;
-              font-size: 13px;
-              letter-spacing: 1.5px;
-              margin-top: 10px;
-              margin-bottom: -3px;
-            } 
-
-            form > h4 {
-              color: #000;
-              font-size: 12px;
-              letter-spacing: 1.5px;
-            }
-
-            form > p:first-child{
-                font-size: 9px;
-                letter-spacing: 1.5px;
-            }
-            .createPDF{
-                font-size: 10px;
-            }
-            .liviano {
-                margin: 20px 0;
-                border-bottom: 1px black solid;
-            }
-            .header-container {
-              align-items: center;
-              display: flex;
-            }
-        </style>
+  
+</head>
 
 <body>
   <div class="container">
@@ -62,54 +21,39 @@
       <h2>M17 Línea temporal</h2>
     </div>
     <div class="top-section-middle">
-      <div id="file" class="custom-file" style="margin: 3em 0 0 0; display: flex;">
-       
-          <select id="tag-filter" class="fadein" style="display: block;">
-               <option value="">Seleccionar apartado</option>
-          </select>
-        <button id="buttonPDF" class="btn btn-primary" style="margin-left: 25px;visibility: hidden;" onclick="timeLinePDF()">Exportar PDF</button>
-
+      <div id="file" class="custom-file" style="margin: 3em 0 0 0; display: none;">
+        <input type="file" class="custom-file__input" id="fileUpload" name="upload" required>
+        <label class="custom-file__label" for="fileUpload">Importar fichero</label>
       </div>
-      
+      <select id="tag-filter" class="" style="display: none">
+        <option value="">Seleccionar apartado</option>
+
+      </select>
     </div>
     <div class="top-section-right">
       <div id="registers"> 
       </div>
   </section>
 
-  <section id="timeline" class="">
+  <section id="timeline" class="timeline-section">
     <ul id="timeline-list">
       <div id="filtered-items">
         </div>
     </ul>
   </section>
 
-  <section id="liquidaciones-container" class="timeline-section">
- 
-  </section>
-
-<section class="timeline-section" style="width: 1260px;">
-  <div id="gastos-ingresos-container" class="container-liquidaciones" style="display: none;"> 
-    
+  <section class="timeline-section">
+      <div id="liquidaciones-container" style="display: none;" >
   </div>
 
-</div>
   </section>
-
-<div id="timeline-pdf-container"></div>
+</div>
 
 </body>
-<script src="js/liquidaciones.js"></script>
-<script src="js/gastos_ingresos.js"></script>
-<script src="js/main-script.js"></script>
-<!--
-<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
-<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
-<script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
--->
-<script src="js/core.js"></script>
-<script src="js/charts.js"></script>
-<script src="js/animated.js"></script>
+<script src="liquidaciones.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="scripts.js"></script>
 
 
 </html>
