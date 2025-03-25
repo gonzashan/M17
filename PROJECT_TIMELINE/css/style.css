@@ -1,0 +1,592 @@
+/* -------------------------------------
+ * For horizontal version, set the
+ * $vertical variable to false
+ * ------------------------------------- */
+/* -------------------------------------
+ * General Style
+ * ------------------------------------- */
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+:root {
+  --color-fondo: #ff6d6d; /* Define el color de fondo global */
+}
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 5%;
+  font-size: 100%;
+  font-family: "Noto Sans", sans-serif;
+  color: #000;
+  background: var(--color-fondo);
+  transform: scale(0.9);
+  transform-origin: top left;
+}
+
+h2 {
+  margin: 3em 0 0 0;
+  font-size: 1.5em;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+
+/* -------------------------------------
+ * timeline
+ * ------------------------------------- */
+#timeline {
+  list-style: none;
+  margin: 50px 0 30px 120px;
+  padding-left: 30px;
+  border-left: 8px solid #eee9dc;
+  transition: opacity 0.3s ease-in-out; /* Agrega transición para la opacidad */
+}
+
+#timeline.fade-in {
+  opacity: 1;
+}
+#timeline.fade-out {
+  opacity: 0;
+}
+
+#gastos-ingresos-container.fade-in {
+  opacity: 1;
+}
+#gastos-ingresos-container.fade-out {
+  opacity: 0;
+}
+
+
+
+
+
+
+
+#tabla-datos {
+  text-align: left;
+}
+
+
+#timeline li {
+  margin: 40px 0;
+  position: relative;
+}
+#timeline p {
+  margin: 10px 0 15px;
+}
+
+
+.president {
+  margin-top: -10px;
+  top: -20%;
+  left: 4px;
+  font-size: 0.95em;
+  line-height: 20px;
+  position: fixed;
+}
+
+.date {
+  margin-top: -10px;
+  top: 50%;
+  left: -158px;
+  font-size: 1.2em;
+  line-height: 20px;
+  position: absolute;
+}
+
+.circle {
+  margin-top: -10px;
+  top: 50%;
+  left: -44px;
+  width: 10px;
+  height: 10px;
+  background: #299f3b;
+  border: 5px solid #eee9dc;
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+}
+
+.content {
+  max-height: 20px;
+  padding: 50px 20px 0;
+  border-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 0.5em;
+  position: relative;
+}
+.content:before, .content:after {
+  content: "";
+  width: 0;
+  height: 0;
+  border: solid transparent;
+  position: absolute;
+  pointer-events: none;
+  right: 100%;
+}
+.content:before {
+  border-right-color: inherit;
+  border-width: 20px;
+  top: 50%;
+  margin-top: -20px;
+}
+.content:after {
+  border-width: 17px;
+  top: 50%;
+  margin-top: -17px;
+}
+.content p,
+.content a {
+  max-height: 0;
+  color: transparent;
+  text-align: justify;
+  word-break: break-word;
+  hyphens: auto;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+label {
+  font-size: 1.3em;
+  font-weight: 400 !important;
+  position: absolute;
+  z-index: 100;
+  cursor: pointer;
+  top: 20px;
+  transition: transform 0.2s linear;
+}
+
+.radio {
+  display: none;
+}
+
+.radio:checked + .relative label {
+  cursor: auto;
+  transform: translateX(42px);
+}
+.radio:checked + .relative .circle {
+  background: #299f3b;;
+}
+.radio:checked ~ .content {
+  max-height: 100%;
+  border-color: #eee9dc;
+  margin-right: 20px;
+  transform: translateX(20px);
+  transition: max-height 0.4s linear, border-color 0.5s linear, transform 0.2s linear;
+  background: rgba(255, 255, 255, 0.3);
+}
+.radio:checked ~ .content p {
+  max-height: 100%;
+  color: #000;
+  transition: color 0.3s linear 0.3s;
+}
+.radio:checked ~ .content a {
+  max-height: 200px;
+  color: #eee9dc;
+  transition: color 0.3s linear 0.3s;
+  pointer-events: auto;
+}
+/* -------------------------------------
+ * mobile phones (vertical version only)
+ * ------------------------------------- */
+@media screen and (max-width: 767px) {
+
+  #timeline {
+    margin-left: 0;
+    padding-left: 0;
+    border-left: none;
+    transition: opacity 0.3s ease-in-out; /* Agrega transición para la opacidad */
+  }
+
+#timeline.fade-in {
+  opacity: 1;
+}
+
+#timeline.fade-out {
+  opacity: 0;
+}
+  #timeline li {
+    margin: 50px 0;
+  }
+
+  label {
+    width: 85%;
+    font-size: 1.1em;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: block;
+    transform: translateX(18px);
+  }
+
+  .content {
+    padding-top: 45px;
+    border-color: #eee9dc;
+  }
+  .content:before, .content:after {
+    border: solid transparent;
+    bottom: 100%;
+  }
+  .content:before {
+    border-bottom-color: inherit;
+    border-width: 17px;
+    top: -16px;
+    left: 50px;
+    margin-left: -17px;
+  }
+  .content:after {
+    border-bottom-color: var(--color-fondo);
+    border-width: 20px;
+    top: -20px;
+    left: 50px;
+    margin-left: -20px;
+  }
+  .content p {
+    font-size: 0.9em;
+    line-height: 1.4;
+  }
+
+  .circle, .date {
+    display: none;
+  }
+}
+
+/* -------------------------------------
+ * input selector file
+ * ------------------------------------- */
+
+.custom-file__input {
+  position: absolute;
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.custom-file__label {
+  position: relative;
+  display: block;
+  background: #ffffff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid #dfdfdf;
+  line-height: 31px;
+  text-transform: none;
+  cursor: pointer;
+  transition: all 0.3s;
+  border-radius: 4px;
+  margin-bottom: 18px;
+  margin-left: 10px;
+  max-width: 150px;
+  height: 30px;
+  color: #1d6092;
+  font-size: 13px;
+  font-family: helvetica;
+  text-align: center;
+}
+
+
+.custom-file__input:valid ~ .custom-file__label {
+  border-color: #39b54a;
+  background: #39b54a;
+  color: #39b54a;
+}
+.custom-file__input:valid ~ .custom-file__label:before {
+  content: "\f00c";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  color: #ffffff;
+  font-family: "FontAwesome";
+  line-height: 45px;
+}
+.fadeout {
+  color: #ffffff;
+  font-size: large;
+  font-family: helvetica;
+  text-align: center;
+  opacity: 0;
+    -webkit-animation: fadeout 1.4s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadeout 1.4s; /* Firefox < 16 */
+        -ms-animation: fadeout 1.4s; /* Internet Explorer */
+         -o-animation: fadeout 1.4s; /* Opera < 12.1 */
+            animation: fadeout 1.4s;
+}
+
+@keyframes fadeout {
+    from { opacity: 1; }
+    to   { opacity: 0; }
+}
+
+.fadein {
+  color: #1d6092;
+  font-size: 13px;
+  font-family: helvetica;
+  text-align: center;
+  opacity: 1;
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/*
+.fadein.select {
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  margin-top: 75px;
+  margin-left: 10px;
+  max-width: 150px;
+  height: 30px;
+}*/
+
+.containerw{
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Ajusta la altura al viewport */
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 1px 20px 20px 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.top-section-left,
+.top-section-middle,
+.top-section-right {
+  flex: 1;
+  padding: 5px 0px 0px 0px;
+  margin-top: auto;
+}
+
+.timeline-sectione {
+  flex: 1; /* Permite que la línea temporal ocupe el resto del espacio */
+  overflow-y: auto; /* Agrega scroll si es necesario */
+  padding: 20px;
+}
+
+.custom-filee {
+  /* Estilos para el input de archivo y el label */
+}
+
+/* Agrega aquí los estilos específicos para #registers y #timeline-list */
+
+/* Media queries para hacerlo responsive */
+@media (max-width: 768px) {
+  .top-section {
+    flex-direction: column; /* Apila los elementos en pantallas pequeñas */
+  }
+}
+
+
+#tag-filter {
+  padding: 12px 15px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: #e0f2fe;
+  color: #1e293b;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#tag-filter:hover {
+  background-color: #ccebff;
+}
+
+#tag-filter:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #a8ddfd;
+}
+
+#pdf-viewer-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: auto;
+  background-color: rgba(42, 42, 46, 1);
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  display: none; /* Ocultar inicialmente */
+}
+
+#close-pdf-viewer {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: transparent;
+  border: none;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+#pdf-canvas-container {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+#pdf-canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+.pdf-link {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.pdf-link:hover {
+  background-color: #0056b3;
+}
+
+
+/*
+
+CARGA DE ELEMENTOS DE LIQUIDACIONES
+*/
+
+
+.importe-right {
+      text-align: right; /* Alinea el texto a la derecha */      
+    }
+    .btn {
+      display: inline-block;
+      padding: 6px 12px;
+      margin-bottom: 0;
+      font-size: 11px;
+      font-weight: 400;
+      line-height: 1.42857143;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      -ms-touch-action: manipulation;
+      touch-action: manipulation;
+      
+    }
+
+.table {
+  table-layout: auto;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px;
+  border-spacing: 0;
+  border-collapse: collapse;
+  font-family: 'Roboto Mono', monospace; /* Usa Roboto Mono solo para los números */
+  font-size: 11px !important;
+}
+.table.table-bordered {
+  max-width: 98%;
+  margin-left: 10px;
+  border-radius: 3px;
+}
+.table.encabezados h2 {
+  font-family: 'Roboto Mono', monospace; /* Usa Roboto Mono solo para los números */
+  margin: 1em 0 0 1em;
+}
+.anio-container {
+  background-color: aliceblue;
+  padding-bottom: 10px;
+  box-shadow: 3px 2px 15px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  margin-bottom: 75px;
+}
+.container-liquidaciones::before {
+  display: table;
+  content: " ";    
+}
+
+.descripcion-columna {
+  width: 640px;
+  min-width: 640px;
+  text-align: left;
+}
+
+.btn.btn-default.btn-block {
+  width: 97.8%;
+  border: 0px;
+}
+.rencabezados {
+  padding-bottom: 15px;
+  text-align: left;
+}
+
+.chart-container {
+  width: 100%;
+  height: 500px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 15px;
+}
+
+/*
+// Grid system
+// --------------------------------------------------
+
+
+// Container widths
+//
+// Set the container width, and override it for fixed navbars in media queries.
+*/
+
+.container-liquidaciones {
+  /*.container-fixed();
+
+  @media (min-width: @screen-sm-min) {
+    width: @container-sm;
+  }
+  @media (min-width: @screen-md-min) {
+    width: @container-md;
+  }
+  @media (min-width: @screen-lg-min) {
+    width: @container-lg;
+  }
+}
+
+
+
+.container-fluid {
+  .container-fixed();
+}
+
+
+.row {
+  .make-row();
+}
+
+.make-grid-columns();
+
+.make-grid(xs);
+
+@media (min-width: @screen-sm-min) {
+  .make-grid(sm);
+}
+
+
+@media (min-width: @screen-md-min) {
+  .make-grid(md);
+}
+
+
+@media (min-width: @screen-lg-min) {
+  .make-grid(lg);
+}
+*/
