@@ -85,7 +85,7 @@ function generarTabla(datos) {
           var transacciones = anioData[seccion][i].transacciones;
           var total = parseFloat(anioData[seccion][i].Totales);
           var alerta = transacciones.some(transaccion => transaccion.alerta === '❗');
-          var botonStyle = alerta ? 'style="background-color: orange;"' : '';
+          var botonStyle = alerta ? 'style="background-color: #ffeecd;"' : '';
           var nombreApartado = tags_apartados[codigo] || 'Código: ' + codigo;
           //console.log(codigo);
           var collapseId = 'collapse-' + anio + '-' + codigo;
