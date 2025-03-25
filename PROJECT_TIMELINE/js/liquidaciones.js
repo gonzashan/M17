@@ -1,6 +1,6 @@
 async function cargarLiquidaciones() {
     try {
-        const response = await fetch('../json/liquidaciones.json');
+        const response = await fetch('liquidaciones.json');
         const liquidaciones = await response.json();
         const container = document.getElementById('liquidaciones-container');
 
