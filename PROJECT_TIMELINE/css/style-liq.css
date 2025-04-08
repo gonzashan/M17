@@ -206,6 +206,7 @@
     }
     .accordian-body.collapse.in tr {
       display: flex;
+      border: 0.5px solid #80808080;
     }
     table {
       border-spacing: 0;
