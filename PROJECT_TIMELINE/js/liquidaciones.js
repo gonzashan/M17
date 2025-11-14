@@ -1,6 +1,6 @@
 async function cargarLiquidaciones() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/gonzashan/M17/669e5eee4f51b77f1b9b6bcc6f580ec82ffa61f0/PROJECT_TIMELINE/json/liquidaciones.json');
+        const response = await fetch('https://raw.githubusercontent.com/gonzashan/M17/e21f73956d632a7c3bda737459388bf0a8401afb/PROJECT_TIMELINE/json/liquidaciones.json');
         
         const liquidaciones = await response.json();
         const container = document.getElementById('liquidaciones-container');
