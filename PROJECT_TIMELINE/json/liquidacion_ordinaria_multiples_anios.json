@@ -1132,7 +1132,7 @@
             "importe": "-776",
             "fecha": "12/06/2024",
             "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
-            "numero_documento": "48159",
+            "numero_documento": "48159-MANCOM_REBUT_1_2-TRIMESTRE",
             "url": "../FACT-INDUSTRIALES/2024/48159-MANCOM_REBUT_1_2-TRIMESTRE.pdf",
             "alerta": ""
           },
@@ -1141,7 +1141,7 @@
             "importe": "-388",
             "fecha": "12/07/2024",
             "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
-            "numero_documento": "48586",
+            "numero_documento": "48586-MANCOM_REBUT_3-TRIMESTRE",
             "url": "../FACT-INDUSTRIALES/2024/48586-MANCOM_REBUT_3-TRIMESTRE.pdf",
             "alerta": ""
           },
@@ -1150,8 +1150,8 @@
             "importe": "-388",
             "fecha": "01/10/2024",
             "empresa": "MANCOMUNIDAD MINERIA FISICA ETC",
-            "numero_documento": "48586",
-            "url": "../FACT-INDUSTRIALES/2024/48586-MANCOM_REBUT_3-TRIMESTRE.pdf",
+            "numero_documento": "48588-MANCOM_REBUT_4-TRIMESTRE",
+            "url": "../FACT-INDUSTRIALES/2024/48588-MANCOM_REBUT_4-TRIMESTRE.pdf",
             "alerta": ""
           }
         ],
@@ -1363,7 +1363,7 @@
             "fecha": "01/01/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "61901",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/61901.pdf",
             "alerta": ""
           },
           {
@@ -1381,7 +1381,7 @@
             "fecha": "01/02/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "62197",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/62197.pdf",
             "alerta": ""
           },
           {
@@ -1390,7 +1390,7 @@
             "fecha": "01/03/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "62487",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/62487.pdf",
             "alerta": ""
           },
           {
@@ -1399,7 +1399,7 @@
             "fecha": "03/04/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "62781",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/62781.pdf",
             "alerta": ""
           },
           {
@@ -1408,7 +1408,7 @@
             "fecha": "03/05/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "63073",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/63073.pdf",
             "alerta": ""
           },
           {
@@ -1426,7 +1426,7 @@
             "fecha": "01/07/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "63834",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/63834.pdf",
             "alerta": ""
           },
           {
@@ -1435,7 +1435,7 @@
             "fecha": "01/08/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "64128",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/64128.pdf",
             "alerta": ""
           },
           {
@@ -1444,7 +1444,7 @@
             "fecha": "02/09/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "64418",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/64418.pdf",
             "alerta": ""
           },
           {
@@ -1453,7 +1453,7 @@
             "fecha": "01/10/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "64712",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/64712.pdf",
             "alerta": ""
           },
           {
@@ -1462,7 +1462,7 @@
             "fecha": "01/11/2024",
             "empresa": "LIMPIEZA MOLITER SCP",
             "numero_documento": "65007",
-            "url": "../FACT-INDUSTRIALES/2024/63539.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/65007.pdf",
             "alerta": ""
           }
         ],
@@ -1477,7 +1477,7 @@
             "fecha": "11/01/2024",
             "empresa": "OTIS MOVILITY",
             "numero_documento": "1C71581M",
-            "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/1C71581M.pdf",
             "alerta": ""
           },
           {
@@ -1486,7 +1486,7 @@
             "fecha": "09/04/2024",
             "empresa": "OTIS MOVILITY",
             "numero_documento": "1E34584M",
-            "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/1E34584M.pdf",
             "alerta": ""
           },
           {
@@ -1495,7 +1495,7 @@
             "fecha": "03/07/2024",
             "empresa": "OTIS MOVILITY",
             "numero_documento": "1G02898M",
-            "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/1G02898M.pdf",
             "alerta": ""
           },
           {
@@ -1504,7 +1504,7 @@
             "fecha": "24/10/2024",
             "empresa": "OTIS MOVILITY",
             "numero_documento": "1K52988M",
-            "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/1K52988M.pdf",
             "alerta": ""
           }
         ],
@@ -1537,7 +1537,7 @@
             "fecha": "16/07/2024",
             "empresa": "OTIS MOVILITY",
             "numero_documento": "1H10494M",
-            "url": "../FACT-INDUSTRIALES/2024/1L48519M.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/1H10494M.pdf",
             "alerta": ""
           },
           {
@@ -1615,7 +1615,7 @@
             "fecha": "15/07/2024",
             "empresa": "ROTABE CONTROL",
             "numero_documento": "24/0307",
-            "url": "../FACT-INDUSTRIALES/2024/24:0307.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/24/0307.pdf",
             "alerta": ""
           }
         ],
@@ -1681,7 +1681,7 @@
             "fecha": "18/10/2024",
             "empresa": "A.A ABASAT S.L.U",
             "numero_documento": "ABSAT-25€",
-            "url": "../FACT-INDUSTRIALES/2024/SVGS240139252.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/ABSAT-25€.pdf",
             "alerta": ""
           }
         ],
@@ -1705,7 +1705,7 @@
             "fecha": "09/12/2024",
             "empresa": "VARIOS",
             "numero_documento": "678652",
-            "url": "../FACT-INDUSTRIALES/2024/bahuhaus.pdf",
+            "url": "../FACT-INDUSTRIALES/2024/678652.pdf",
             "alerta": ""
           },
           {
@@ -1713,7 +1713,7 @@
             "importe": "-32.68",
             "fecha": "12/12/2024",
             "empresa": "VARIOS",
-            "numero_documento": "VEÏNS-1",
+            "numero_documento": "GASTO-VECINOS-1",
             "url": "../FACT-INDUSTRIALES/2024/GASTO-VECINOS-1.pdf",
             "alerta": ""
           },
@@ -1722,7 +1722,7 @@
             "importe": "-72.83",
             "fecha": "12/12/2024",
             "empresa": "VARIOS",
-            "numero_documento": "VEÏN-2",
+            "numero_documento": "GASTO-VECINOS-2",
             "url": "../FACT-INDUSTRIALES/2024/GASTO-VECINOS-2.pdf",
             "alerta": ""
           }
