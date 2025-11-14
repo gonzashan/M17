@@ -1,5 +1,5 @@
 // URL de tu script de Google Apps Script publicado como aplicación web
-const urlScript = 'https://raw.githubusercontent.com/gonzashan/M17/9f4ddea28a42d88676b9b9b9ed22fe9c0aac6149/PROJECT_TIMELINE/json/liquidacion_ordinaria_multiples_anios.json';
+const urlScript = 'https://raw.githubusercontent.com/gonzashan/M17/58663e8797049c45276cf29a5cf34ccda1482de2/PROJECT_TIMELINE/json/liquidacion_ordinaria_multiples_anios.json';
 // Objeto que mapea códigos a nombres de apartados
 var tags_apartados = {0: "ERROR", 1: "SEGURO COMUNIDAD", 2: "ARQUITECTO", 3: "OBRAS COMUNIDAD", 4: "HONORARIOS ADMINISTRADOR", 5: "HONORARIOS ADMINISTRADOR", 6: "RECIBOS MANCOMUNIDAD", 7: "PREVENCIÓN RIESGOS", 8: "CONSUMO ELECTRICO", 9: "AGUA", 10: "LIMPIEZA ESCALERA", 11: "MANTENIMIENTO ASCENSOR", 12: "REPARACION ASCENSOR", 13: "MANTENIMIENTO INTERFONO", 14: "MANTENIMIENTO ANTENA", 15: "MANTENIMIENTO EXTINTORES", 16: "FACTURAS ELECTRICISTA", 17: "FACTURA CERREJERlA", 18: "FACTURA LAMPISTA AGUA", 19: "FACTURA DESINFECCIONES", 20: "INSTALACIÓN NUEVA GAS", 21: "IMPRESOS SUPLIDOS", 22: "ALQUILER SALA REUNIONES"};
 
